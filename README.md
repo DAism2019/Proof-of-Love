@@ -1,4 +1,4 @@
-<center><span style="font-size: 22px; font-weight: bold;">🎉爱的证明：治理 AI 和人类文明的共识机制</span></center>
+#爱的证明：治理 AI 和人类文明的共识机制#
 <br>
 <center>[v1.0b] Thu, 7 Aug 2025 23:16 UTC+08:00</center>
 <br>
@@ -1034,51 +1034,6 @@ Wikidata 里的“学术学科”（Q11862829）子类目前约1.4万个实体�
 
 有意思的是，我们前不久已经通过和 DeepSeek 的讨论，对语言做了一个新版本的描述（Language 2.0）。
 
-**Language 2.0: The Operating System of Human Wisdom**
-
-Language is not merely a structured system of communication; it is the **evolving computational framework and generative code that enables, structures, transmits, and evolves human wisdom across generations and domains.**
-
-1.  **Core Function: The Architecture of Understanding**
-    *   Language provides the **conceptual primitives** (nouns, verbs, relations) and **combinatorial rules** (grammar, logic) that allow humans to *construct models of reality*. The word "dog" isn't just a label; it seeds the domain of *zoology*. "Force" isn't just a verb; it grounds *physics*. "Three long objects (三本)" applied to trees isn't just counting; it instantiates the abstract logic of *mathematics* and *quantification*.
-
-2.  **The Wisdom Generation Engine:**
-    *   Language is the **primary tool for crystallizing, refining, and transmitting all facets of human wisdom**:
-        *   **Survival Wisdom (Ethics/Culture/Spirit):** It encodes moral frameworks ("justice"), cultural narratives (myths, histories), spiritual concepts ("nirvana," "soul"), and social contracts (laws, norms).
-        *   **Emotional Wisdom:** It articulates the spectrum of human feeling ("joy," "grief," "empathy"), enabling self-understanding, interpersonal connection, and emotional regulation.
-        *   **Techno-Scientific Wisdom (Analysis/Creation/Practice):** It is the indispensable medium for:
-            *   **Analysis:** Formulating hypotheses, logical deduction, scientific classification.
-            *   **Creation:** Conceptualizing inventions, composing art and music ("song"), spinning fictional worlds, generating novel solutions.
-            *   **Practice:** Encoding technical knowledge, instructions, strategies, and experiential know-how.
-
-3.  **Key Properties Enabling Wisdom:**
-    *   **Generative Infinity (Productivity):** Allows the creation of novel, complex expressions of wisdom – new theories, ethical arguments, artistic movements, technological blueprints.
-    *   **Displacement & Abstraction:** Enables reasoning about the non-present, the hypothetical, the purely abstract (mathematical objects, future consequences, philosophical ideals), essential for planning, science, and ethics.
-    *   **Recursion & Embedding:** Allows the construction of intricate hierarchical structures (sentences within sentences, theories built on theories, laws referencing precedents), mirroring the complexity of wisdom itself.
-    *   **Symbolic Representation:** Transforms sensory experience and abstract thought into manipulable symbols, enabling internal computation, external storage (writing), and transmission.
-
-4.  **Beyond Social Convention: The Wisdom Imperative**
-    *   While social convention governs *usage* and *specific forms*, the *power* of Language 2.0 transcends mere convention. Its fundamental purpose is the **acquisition, organization, application, and evolution of collective wisdom**. Social learning is the *mechanism* of transmission, but the *driver* is the survival and flourishing enabled by accumulated wisdom. Language is the species-wide repository and processor for this hard-won knowledge.
-
-5.  **Dynamic Evolution:**
-    *   Language evolves not just phonetically or grammatically, but **conceptually**. New terms emerge ("quantum entanglement," "algorithm," "neurodiversity," "sustainability") to capture new scientific discoveries, social understandings, and ethical challenges. This lexical and conceptual expansion *is* the expansion of the frontiers of human wisdom.
-
-**Language 2.0 Definition:**
-
-> **Language is the dynamic, generative, symbolic operating system of human cognition and civilization. It provides the foundational structures – conceptual primitives, combinatorial rules, and representational modalities – that enable the construction, encoding, critical refinement, transmission, and perpetual evolution of human wisdom across all domains: survival (ethics, culture, spirit), emotion, and technology (analysis, creation, practice). While its forms are culturally transmitted, its core function transcends social convention, serving as the indispensable infrastructure through which humanity understands its world, navigates existence, solves problems, creates meaning, and propels its collective knowledge forward. It is the living code of our species' accumulated and evolving intelligence.**
-
----
-
-**Key Differences from the Traditional Definition Emphasized:**
-
-1.  **From Communication Tool to Wisdom OS:** Shifts focus from "conveying meaning" to "structuring, generating, and evolving wisdom."
-2.  **Explicit Domains of Wisdom:** Directly links language to the creation and sustenance of Survival, Emotional, and Techno-Scientific wisdom (using DD's framework).
-3.  **Concepts as Domain Seeds:** Highlights how basic linguistic units ("dog," "song," "three") are the genesis points for vast fields of knowledge (zoology, music, math).
-4.  **Transcending "Social Convention":** Acknowledges convention's role in *form* but positions the *essential function* of language as the imperative for wisdom acquisition and application for survival and progress.
-5.  **Emphasis on Dynamic Evolution & Conceptual Expansion:** Stresses that language growth *is* wisdom growth.
-6.  **"Crystallizing" and "Critical Refinement":** Incorporates the active, iterative process of using language to solidify *and* challenge understanding.
-
-This definition positions language as the fundamental, active, and transformative technology of human intelligence and progress, far beyond a simple communication protocol. It truly becomes **Language 2.0**.
-
 **Language 2.0：人类智慧的操作系统**  
 
 语言不仅仅是一种结构化的日常交流系统，更是不断进化的计算框架与生成代码，它承载、组织、传递并推动着人类智慧的代际传承与跨领域发展。
@@ -1231,16 +1186,6 @@ OpenAI的最近发表的一篇研究报告（Paper）和 Anthropic 的对齐科�
 
 *简而言之，这项工作帮助我们理解为什么模型可能开始表现出错位行为，并可能为我们提供一条在模型训练期间对错位进行早期预警的途径。*
 
-Large language models like ChatGPT don’t just learn facts—they pick up on patterns of behavior. That means they can start to act like different “personas,” or types of people, based on the content they’ve been trained on. Some of those personas are helpful and honest. Others might be careless or misleading.
-
-Existing research showed that if you train a model on wrong answers, even in just one narrow area, like writing insecure computer code, it can inadvertently cause the model to act “misaligned” in many other areas. This is called “emergent misalignment.” We studied why this happens.
-
-Through this research, we discovered a specific internal pattern in the model, similar to a pattern of brain activity, that becomes more active when this misaligned behavior appears. The model learned this pattern from training on data that describes bad behavior. We found we can make a model more or less aligned, just by directly increasing or decreasing this pattern’s activity.  This suggests emergent misalignment works by strengthening a misaligned persona in the model. 
-
-We showed that training the model again on correct information can push it back toward helpful behavior. Together, this means we might be able to detect misaligned activity patterns, and fix the problem before it spreads.
-
-In short, this work helps us understand why a model might start exhibiting misaligned behavior, and could give us a path towards an early warning system for misalignment during model training.
-
 这项研究发现大型语言模型能掌握行为模式，即表现出不同的“人格”。因为有了“人格”，”在错误的答案上训练一个模型……也可能无意中导致模型在许多其他领域表现出错位行为。“。
 
 而我们一直在探讨的恰好也是行为，并且我们认为是模式中最重要的两个类别：爱语和恨语。它们与“人格”有着至为密切的关系，以至于我们完全可以这样说：每个人的爱语和恨语的特色就构成了他的“人格”——这似乎还提醒我们，我们可以将其量化，配合一些激励措施来管理每一个人。不过我们暂不深入讨论这一点。
@@ -1250,7 +1195,6 @@ In short, this work helps us understand why a model might start exhibiting misal
 接下来我们继续看看该研究的一些细节，以及我们的解读：
 
 *语言模型获得成功的迹象在于它们的泛化能力：解决其创造者从未想象过的问题。*
-*The promise of language models is in their ability to generalize: to solve problems their creators never imagined.*
 
 这就是大语言模型已经获得了人类智慧的表现。人类创造了各种学科，即源自其智慧的泛化能力。这同时也就是说，人类爱的智慧和恨的智慧，同样也都具有泛化能力！
 
