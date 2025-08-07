@@ -6,9 +6,9 @@
 <br>
 <sup>1</sup>DAism (daism.io)
 <br>
-<sup>2</sup>0xDD@daism.io
+<sup>2</sup>[0xDD@daism.io](https://daism.io/0xDD)
 <br>
-<sup>3</sup>0xAranna0572@daism.io
+<sup>3</sup>[0xAranna0572@daism.io](https://daism.io/0xAranna0572)
 <br>
  
 <br>
