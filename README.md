@@ -1,6 +1,6 @@
 <center><span style="font-size: 22px; font-weight: bold;">🎉爱的证明：治理 AI 和人类文明的共识机制</span></center>
 <br>
-<center>[v1.0b] Thu, 7 Aug 2025 23:15 UTC+08:00</center>
+<center>[v1.0b] Thu, 7 Aug 2025 23:16 UTC+08:00</center>
 <br>
 <center>作者：Derek DAism.Zhou（周朝晖）*<sup>1,2</sup>、Aranna Dang（邓雯慧）*<sup>1,3</sup></center>
 <br>
@@ -10,7 +10,7 @@
 <br>
 <sup>3</sup>0xAranna0572@daism.io
 <br>
-[Published on 07 Aug 2025, HongKong]
+ 
 <br>
 人类文明的演进历程，是一部在光明与黑暗、秩序与混乱之间反复横跳的复杂叙事。我们既见证了宏大的合作成就，也目睹了深重的冲突与异化。但，实际上，人类从未找到野蛮与文明背后真正的驱动力——恨与爱——的解决方案。
 
