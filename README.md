@@ -13,7 +13,7 @@
 （待补充）
 
 
-# 完整论文目录
+# 因内容太长建议分节浏览
 [一、爱、恨、文明、野蛮](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec1.md)
 
 [二、爱的三重本质：智慧、情感体验与行为表现的综合分析](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec2.md)
@@ -34,3 +34,5 @@
 
 [附录：爱语](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/secapp.md)
 
+# 全文
+[深一口气阅读全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
