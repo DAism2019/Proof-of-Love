@@ -36,3 +36,8 @@
 
 ## 全文
 [深吸一口气阅读全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
+
+## 关键词
+爱的证明, 共识, 大语言模型, AI, 文明, 治理
+
+Proof-of-Love, Consensus, LLM, AI, Civilization, governance, 
