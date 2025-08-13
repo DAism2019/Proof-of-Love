@@ -35,4 +35,4 @@
 [附录：爱语](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/secapp.md)
 
 # 全文
-[深一口气阅读全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
+[深吸一口气阅读全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
