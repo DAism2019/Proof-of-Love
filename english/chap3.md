@@ -6,15 +6,15 @@ Yes, this also means that human society still exists in a half-barbaric, half-ci
 
 ## 3.1 Hatred, Barbaric Behavior, and Domination
 
-According to Wikipedia, hatred is a strong negative emotional reaction toward certain people, things, or ideas, often linked to opposition or disgust. Hatred is frequently associated with intense anger, contempt, and revulsion, and is sometimes regarded as the opposite of love.
+According to Wikipedia, hatred is a strong negative emotional reaction toward certain people, things, or ideas, often linked to opposition or disgust. Hatred is frequently associated with intense anger, contempt, and revulsion, and is sometimes regarded as the opposite of love.<sup>73</sup>
 
 Hatred is a latent, object-directed negative emotional experience that can be externalized as aggression, insults, deception, contempt, or discrimination against others (or oneself), or internalized as anger, sadness, despair, disappointment, or loathing.
 
-It is both an inner emotional state and a process whereby individuals or collective organizations incite and translate this emotion into violent thoughts and actions. Rooted in zero-sum “life-or-death” dualism, hatred manifests in verbal assault, institutionalized discrimination, social exclusion, and violent practices. These not only erode trust and public cooperation, jeopardizing the physical and psychological well-being of others, but also backfire on perpetrators, leading to self-barbarization and cycles of inner torment.
+It is both an inner emotional state and a process whereby individuals or collective organizations incite and translate this emotion into violent thoughts and actions. Rooted in a life-and-death binary opposition, hatred manifests in verbal assault, institutionalized discrimination, social exclusion, and violent practices. These not only erode trust and public cooperation, jeopardizing the physical and psychological well-being of others, but also backfire on perpetrators, leading to self-barbarization and cycles of inner torment.
 
 The origins of hatred are evolutionarily intelligible: lions need prey, boar piglets need protection. In the jungle, facing food scarcity or predators, there is no space for love—only extreme hatred ensures survival. For humans, responding to barbaric assault often necessitates barbaric retaliation to defend oneself or others—what we term legitimate self-defense. Indeed, hatred can sometimes serve crucial self-protective or altruistic functions. However, since legitimate self-defense entails a complex blend of love and hate, it will not be the focus here.
 
-Triggers of Hatred:
+**Triggers of Hatred:**
 
 - Negative judgments and emotional projection
 
@@ -24,7 +24,7 @@ Triggers of Hatred:
 
 - Survival threats or selfish motives
 
-Externalization of Hatred:
+**Externalization of Hatred:**
 
 - Verbal aggression, insult, and discrimination
 
@@ -34,7 +34,7 @@ Externalization of Hatred:
 
 - Information manipulation and propagandistic incitement
 
-Social Consequences:
+**Social Consequences:**
 
 - Erosion of social trust and public cooperation
 
@@ -42,7 +42,7 @@ Social Consequences:
 
 - Intensification of structural inequality and cycles of conflict
 
-Self-Impact:
+**Self-Impact:**
 
 - Self-barbarization: loss of empathy, magnified violent impulses, pride in being “powerful” or “ruthless”
 
@@ -135,19 +135,19 @@ These structures intersect to form a multi-dimensional domination network linkin
 ## 3.2 Theoretical Foundations of Power and Oppression
 ### 3.2.1 Critical Theory: Systemic, Disciplinary, and Ideological Dimensions of Power
 
-Critical theory, originating from the Frankfurt School, is a current of social, historical, and political thought whose core lies in analyzing and challenging systemic power relations in society. Unlike traditional social theory, which aims to describe and understand society, critical theory explicitly seeks to critique and transform it, emphasizing the unity of theory and praxis. It maintains that knowledge, truth, and social structures are fundamentally shaped by the dynamics between ruling and oppressed groups.
+Critical theory, originating from the Frankfurt School, is a current of social, historical, and political thought whose core lies in analyzing and challenging systemic power relations in society. Unlike traditional social theory, which aims to describe and understand society, critical theory explicitly seeks to critique and transform it, emphasizing the unity of theory and praxis. It maintains that knowledge, truth, and social structures are fundamentally shaped by the dynamics between ruling and oppressed groups.<sup>20</sup>
 
-Modern critical theory goes beyond Marxism’s purely economic analysis by incorporating and reworking Freudian concepts and postmodernist perspectives to examine broader cultural and social structures of power. Its goal is to “liberate human beings from the circumstances that enslave them,” often achieved through “immanent critique” of a society’s own proclaimed values. Paulo Freire’s Pedagogy of the Oppressed is a seminal contribution, framing the classroom as a microcosm of society that reflects the dialectical relationship between oppressors and the oppressed, thereby offering practical routes for social critique.
+Modern critical theory goes beyond Marxism’s purely economic analysis by incorporating and reworking Freudian concepts and postmodernist perspectives to examine broader cultural and social structures of power. Its goal is to “liberate human beings from the circumstances that enslave them,” often achieved through “immanent critique” of a society’s own proclaimed values.<sup>20</sup> Paulo Freire’s Pedagogy of the Oppressed is a seminal contribution, framing the classroom as a microcosm of society that reflects the dialectical relationship between oppressors and the oppressed, thereby offering practical routes for social critique.<sup>21</sup>
 
 This transition from purely economic analysis to cultural and psychological examination highlights that domination is no longer limited to material control but extends into the manipulation of desires, cognition, and identity. If domination is a form of “primordial barbarism,” then its manifestations are not only naked coercion or economic compulsion but also subtle, pervasive forms of enslavement. This expanded definition of barbarism encompasses the systematic dehumanization of individuals through cultural and psychological means and the erosion of autonomy—domination as control of the human subject itself, not merely the body.
 
 ### 3.2.2 Marxist Perspectives: Exploitation, Alienation, and Class Domination
 
-From a Marxist standpoint, social power and coercion are exercised through economic exploitation. Workers are exploited because they cannot retain or control the full value of their labor, while capitalists appropriate the surplus. The inherently exploitative nature of capitalism implies that nearly every exchange carries the potential for exploitation.
+From a Marxist standpoint, social power and coercion are exercised through economic exploitation.<sup>22</sup> Workers are exploited because they cannot retain or control the full value of their labor, while capitalists appropriate the surplus. The inherently exploitative nature of capitalism implies that nearly every exchange carries the potential for exploitation.<sup>23</sup>
 
-In this process, poverty is not naturally occurring but is “first manufactured by the capitalist system, and only later addressed as a problem to be solved.” Redistribution by the state is thus a secondary remedy imposed upon primary inequality created by initial distribution. This institutionalized exploitation forms the essence of capitalist economic relations.
+In this process, poverty is not naturally occurring but is “first manufactured by the capitalist system, and only later addressed as a problem to be solved.” Redistribution by the state is thus a secondary remedy imposed upon primary inequality created by initial distribution. This institutionalized exploitation forms the essence of capitalist economic relations.<sup>74</sup>
 
-Alienation (Entfremdung) and reification are key concepts in critical theory, rooted in Marxist analysis.
+Alienation (Entfremdung) and reification are key concepts in critical theory, rooted in Marxist analysis.<sup>21</sup>
 
 “The relation of the worker to the product of his labor is as to an alien object… The more the worker expends himself in labor, the more powerful becomes the alien world of objects he creates against himself, the poorer he becomes in his inner life, and the less he belongs to himself.”
 
