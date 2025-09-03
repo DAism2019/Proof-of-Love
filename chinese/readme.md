@@ -32,6 +32,7 @@
 
 [附录：爱语](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/secapp.md)
 
+
 # 【关键词】(Keywords)
 
 Proof-of-Love（爱的证明）；LLMs （大语言模型）；Artificial Intelligence（人工智能）；Ethics of Artificial Intelligence（人工智能伦理）；Civilization（文明）；Decentralized Governance（去中心化治理）；Blockchain and Smart Contracts（区块链与智能合约）；Value Alignment（价值对齐）
