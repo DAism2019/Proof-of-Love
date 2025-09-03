@@ -3,7 +3,7 @@
 
 # 爱的证明：治理 AI 和人类文明的共识机制
 
-<center>[v1.0c] Thu, 7 Aug 2025 23:16 UTC+08:00</center>
+<center>[v1.0] Thu, 7 Aug 2025 23:16 UTC+08:00</center>
 <br>
 <center>作者：Derek DAism.Zhou（周朝晖）<sup>1,2</sup>、Aranna Dang（邓雯慧）<sup>1,3</sup></center>
 
@@ -36,7 +36,7 @@
 [附录：爱语](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/secapp.md)
 
 ## 全文
-[深吸一口气阅读全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
+[深吸一口气阅读 1.0a 全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
 
 
 ## 关键词
