@@ -2,6 +2,7 @@
 （Proof of Love: The Consensus of AI and Next Civilization）
 
 <center>[v1.0a] Thu, 7 Aug 2025 23:16 UTC+08:00</center>
+<br>
 <center>[v1.0] Wed. 3 Sep 2025 23:16 UTC+08:00</center>
 <br>
 <center>作者：Derek DAism.Zhou（周朝晖）<sup>1,2</sup>、Aranna Dang（邓雯慧）<sup>1,3</sup></center>
