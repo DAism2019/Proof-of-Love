@@ -9,11 +9,12 @@
 
 <sup>1</sup>DAism (daism.io), <sup>2</sup>0xDD@daism.io, <sup>3</sup>0xAranna0572@daism.io
 
-## 概要
-（待补充）
 
 
-## 因内容太长建议分节浏览
+## 目录
+
+[摘要](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/abstract.md)
+
 [一、爱、恨、文明、野蛮](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec1.md)
 
 [二、爱的三重本质：智慧、情感体验与行为表现的综合分析](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec2.md)
@@ -36,6 +37,7 @@
 
 ## 全文
 [深吸一口气阅读全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
+
 
 ## 关键词
 爱的证明, 共识, 大语言模型, AI, 文明, 治理
