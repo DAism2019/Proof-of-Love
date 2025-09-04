@@ -1,23 +1,36 @@
 # Proof of Love: The Consensus of AI and Next Civilization
+
+<center>Derek DAism.Zhou<sup>1,2</sup>、Aranna Dang<sup>1,3</sup></center>
+
+<sup>1</sup>DAism (daism.io), <sup>2</sup>0xDD@daism.io, <sup>3</sup>0xAranna0572@daism.io
+
+## Abstract
+
+The rise of large-scale language models has propelled the rapid development of artificial intelligence (AI), while also introducing safety concerns such as hallucinations and misalignment, posing unresolved governance challenges. However, AI governance issues extend beyond these concerns.
+
+Our DAism team proposes "Proof of Love" (PoL) as a tripartite new governance consensus and civilizational framework: ethical governance through promoting love and suppressing hate, public attribute governance of products or services via the SCC0 protocol, and governance of public affairs and public funds.
+
+The paper argues how love and hate, as inherent opposing wisdoms in individuals and human society, shape governance logic. It points out that, historically, "domination" has been centered on the wisdom of hate, continuously polluting, distorting, depriving, and destroying various forms of the wisdom of love in governance mechanisms, resulting in civilization being confined to a state of barbarism. In contrast, PoL aims to align Smart Commons (including AI), the economy, and universal human values with human ethics, using the principle of "promoting love and suppressing hate" as the criterion for governance. This provides a sustained anchor for AI’s long-term safe operation, public value orientation, and the progress of human civilization. Not only does AI, alongside blockchain, serve as an autonomous core driving force in PoL’s three-pronged governance, but it also drives scientific decision-making, precise processes, and maximized efficiency in this process. Simultaneously, it collaborates with humanity’s awakening, helping each individual achieve self-fulfillment. Ultimately, it leads humanity from a universal barbaric state trapped under domination to a "Proof-of-Love Civilization."
+
 (please keep waiting...)
+<br>
 
 # 爱的证明：治理 AI 和人类文明的共识机制
 
 <center>[v1.0] Wed. 3 Sep 2025 23:16 UTC+08:00</center>
 <br>
-<center>作者：Derek DAism.Zhou（周朝晖）<sup>1,2</sup>、Aranna Dang（邓雯慧）<sup>1,3</sup></center>
+<center>Derek DAism.Zhou（周朝晖）<sup>1,2</sup>、Aranna Dang（邓雯慧）<sup>1,3</sup></center>
 
 <sup>1</sup>DAism (daism.io), <sup>2</sup>0xDD@daism.io, <sup>3</sup>0xAranna0572@daism.io
 <br>
-<br>
 
-## 【摘要】（Abstract）
+## 【摘要】
 
-大规模语言模型（LLMs）的兴起推动了人工智能（AI）的快速发展，同时也带来了幻觉、失对齐等安全问题，成为悬而未决的治理挑战。然而，AI 的治理问题并不仅限于此。
+大规模语言模型的兴起推动了人工智能（AI）的快速发展，同时也带来了幻觉、失对齐等安全问题，成为悬而未决的治理挑战。然而，AI 的治理问题并不仅限于此。
 
-本文提出“爱的证明”（Proof-of-Love, PoL）作为一种三管齐下的新型治理共识与文明框架：革故鼎新的伦理治理、通过 SCC0 协议完成的产品或服务的公共属性治理、公共事务与公共基金的治理。
+我们道议程团队提出“爱的证明”（Proof of Love, PoL）作为一种三管齐下的新型治理共识与文明框架：扬爱抑恨的伦理治理、通过 SCC0 协议完成的产品或服务的公共属性治理、公共事务与公共基金的治理。
 
-文中论证了爱与恨作为人类社会内在的对立智慧如何塑造治理逻辑，并指出长期以来“统治”乃是以恨之智慧为核心，同时不断污染、扭曲、剥夺、摧毁各种形式的爱的智慧的治理机制，导致文明被禁锢于野蛮状态。而 PoL 则旨在将包括  AI  在内的智能公器、经济以及人类普世价值与人类伦理中“爱”的智慧对齐，帮助人类认识并调控对立存在的仇恨智慧，通过实现 AI 遵循“扬爱抑恨”这一人类伦理准则的自治，为其长期安全运行与公共价值导向提供持续锚点，使之不仅与区块链一起作为核心驱动力，共同成为 PoL 三大治理中的中坚力量，并且还将使它在此过程中驱动决策的科学化、流程的精准化与效率的极致化。最终引领人类从被统治的半野蛮社会迈向“富爱文明”（Proof‑of‑Love Civilization）。
+文中论证了爱与恨作为个人以及人类社会内在的对立智慧如何塑造治理逻辑，并指出长期以来“统治”乃是以恨之智慧为核心，同时不断污染、扭曲、剥夺、摧毁各种形式的爱的智慧的治理机制，导致文明被禁锢于野蛮状态。而 PoL 则旨在将包括 AI 在内的智能公器（Smart Commons）、经济以及人类普世价值进行以“扬爱抑恨”为准则的人类伦理对齐性治理，为 AI 的长期安全运行与公共价值导向，以及人类文明的进步提供持续锚点，使 AI 不仅与区块链一起成为 PoL 三大治理中的自治型的核心驱动力，并且还将使它在此过程中驱动决策的科学化、流程的精准化与效率的极致化。同时也协同人类的觉醒，帮助每个人实现自身的圆满。最终引领人类摆脱被统治困住的普遍野蛮状态，迈向“富爱文明”（Proof‑of‑Love Civilization）。
 
 ## 目录
 
