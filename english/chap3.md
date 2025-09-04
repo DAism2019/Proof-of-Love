@@ -74,9 +74,9 @@ As the U.S. Declaration of Independence (1776) proclaimed: “We hold these trut
 
 Of course, this indictment applies not only to Trump but to rulers in general.
 
-Structures of Power in Contemporary Human Domination
+Here are the structures of power in contemporary human domination:
 
-Political Power Structures:
+1. Political Power Structures
 
 - International organizations (UN, WTO, IEA, WHO, UNESCO) shaping sovereignty, trade, energy, health, culture, and education.
 
@@ -86,7 +86,7 @@ Political Power Structures:
 
 - Bureaucracies (vast civil service systems).
 
-Economic Power Structures:
+2. Economic Power Structures
 
 - Capital (Marx’s “silent force”).
 
@@ -94,7 +94,7 @@ Economic Power Structures:
 
 - Financial institutions (banks, private equity, hedge funds).
 
-Cultural and Ideological Power Structures:
+3. Cultural and Ideological Power Structures
 
 - Mainstream media and opinion-shaping machinery.
 
@@ -102,13 +102,13 @@ Cultural and Ideological Power Structures:
 
 - Religion and ideological organizations.
 
-Technological and Informational Power Structures:
+4. Technological and Informational Power Structures
 
 - Tech giants and platforms (algorithmic recommendation, data control).
 
 - Surveillance and security networks (digital monitoring, big-data analysis).
 
-Social and Group Power Structures:
+5. Social and Group Power Structures
 
 - Elite networks and exclusive clubs.
 
@@ -116,7 +116,7 @@ Social and Group Power Structures:
 
 - Professional and industry associations (certifications, standards, regulations).
 
-Familial and Intimate Power Structures:
+6. Familial and Intimate Power Structures
 
 - Household authority hierarchies: parental control over children or spousal domination based on tradition, economics, or emotional dependency.
 
@@ -124,7 +124,7 @@ Familial and Intimate Power Structures:
 
 - Invisible domination in intimate relationships (emotional blackmail, financial control, information blocking).
 
-Legal and Institutional Power Structures:
+7. Legal and Institutional Power Structures
 
 - Legal texts and judicial interpretations (defining “legal/illegal”).
 
@@ -157,15 +157,15 @@ Reification transforms social relations into relations between things, reducing 
 
 Marxist state theory holds that the state is a machine for maintaining class domination: an organization of the ruling class endowed with the strongest instruments of repression and coercion. In capitalism, the state is structured to uphold capitalist institutions and ensure the dictatorship of a minority of capitalists through both violent and ideological apparatuses.
 
-The Marxist concept of reification—social relations treated as relations between objects—combined with the idea of objectified labor becoming a dominating force, reveals the subtle but profound instrumentality inherent in capitalist structures. Human agency paradoxically creates alienated powers (capital/objectified labor) that turn back upon their creators, exploiting and ruling them. This “systemic instrumentalization” extends beyond interpersonal exploitation to the very level of social structure, reducing individuals to components within an impersonal economic machine. This, too, is a form of barbarism.
+The Marxist concept of reification—that social relations are perceived as relations between things<sup>21</sup>—when combined with the idea of objectified labor becoming a dominating force<sup>28</sup>, reveals the inherent, subtle, and profound form of instrumentalization within the power structures of capitalism. This is not merely the use of people, but rather the transformation of human social processes into impersonal and controlling forces. Reification is defined as “the stripping of the world of meaning and purpose, and the reduction of individuals to mere cogs in the machine”<sup>21</sup>, and as the treatment of “real social relations as relations between things”<sup>25</sup>. When objectified labor becomes the force that dominates and exploits contemporary workers<sup>28</sup>, this abstract concept acquires concrete power. The causal relationship here demonstrates that under capitalism, human labor produces an external and alienated power (capital/objectified labor), which in turn dominates and exploits its very creators. This extends the notion of instrumentalization beyond direct interpersonal interaction to the systemic level, where human agency is paradoxically turned against itself, resulting in a deeper and more pervasive form of barbarism in which individuals are reduced to mere components within an impersonal economic machine.
 
 ### 3.2.3 Foucauldian Insights: Power Beyond the State, Normalization, and Biopower
 
 Michel Foucault rejected the notion that power resides solely in the state, arguing instead that power has a broader, more diffuse basis, embedded in complex networks of relationships between individuals. The modern state, in his view, is a sophisticated structure that integrates individuals into its order by conditioning them to adopt certain patterns and forms of individuality, thereby exercising control over them.
 
-Foucault distinguished between sovereign power (judicial, prohibitive—the “sword of sovereignty”) and disciplinary power. Disciplinary power is a productive force that operates through normalization, prescribing possible actions for subjects, rewarding conformity, and punishing deviation. Punishment shifts from revealing truth to producing docile, rule-following subjects.
+Foucault distinguished between sovereign power (judicial, prohibitive—the “sword of sovereignty”) and disciplinary power.<sup>31</sup> Disciplinary power is a productive force that operates through normalization, prescribing possible actions for subjects, rewarding conformity, and punishing deviation. Punishment shifts from revealing truth to producing docile, rule-following subjects.
 
-This new power form, biopower, is productive and life-oriented, managing populations in ways essential to capitalism, since it aligns human life with economic processes.
+This new power form, biopower, is productive and life-oriented, managing populations in ways essential to capitalism, since it aligns human life with economic processes.<sup>30</sup>
 
 Foucault also emphasized: “Where there is power, there is resistance.” Power does not act upon inert bodies; subjects respond and transform commands in multiple ways. Power binds subjects to their identities, making them internalize norms as if they were their own, so that they become simultaneously the targets and carriers of power.
 
@@ -241,11 +241,11 @@ Empathy is foundational to the development and maintenance of human relationship
 
 High relational power can lead individuals to believe they lose less if the relationship dissolves. Studies show that those perceiving themselves as holding higher power in relationships are more prone to attraction to alternatives outside the relationship, engaging in fantasies or romantic interactions with substitute partners. This phenomenon is mediated by an increased perception of one’s own “mate value.”
 
-Thus, when high-power partners perceive themselves as more attractive and at lower risk of loss, they are more likely to disengage from existing commitments and seek alternatives. This creates systematic “love deprivation” for lower-power partners, whose emotional needs and fundamental commitments are undermined by power imbalance. Domination—even in intimate settings—therefore manifests as a relational form of barbarism.
+It has been observed that high-power partners may exhibit greater interest in alternative partners<sup>45</sup>, due to an elevated perception of their own “mate value.” This reveals how domination inherently undermines the core commitments and exclusivity of romantic relationships, thereby leading to a systemic “deprivation of love” for the lower-power partner. Individuals who perceive themselves as having high relational power are “more easily attracted to those outside the relationship”<sup>45</sup>, and this phenomenon is mediated by the perception that “power may drive an increased sense of one’s own mate value.” This establishes a direct causal relationship between holding power and reduced commitment to an existing relationship. If one partner feels they have “less to lose”<sup>45</sup> and simultaneously perceives themselves as more desirable, this naturally results in diminished investment in the current relationship and the pursuit of alternatives. Such a mechanism directly produces the “deprivation of love” for the less powerful partner, as their emotional needs and the fundamental commitments of the relationship are eroded by the imbalance of power. This indicates that domination, even within intimate settings, can result in a form of relational barbarism.
 
 ### 3.4.2 Buber’s “I-It” Relationship: Objectification and Instrumental Treatment of Others
 
-Martin Buber’s I and Thou distinguishes two fundamental relational modes: “I-It” and “I-You.”
+Martin Buber’s *I and Thou* distinguishes two fundamental relational modes: “I-It” and “I-You.”
 
 The “I-It” relation is based on alienation, where the other is treated as an object or instrument for utility. Here, the “I” emerges as a self-conscious subject of experience and use.
 
@@ -257,19 +257,19 @@ Buber’s concept of the “I-It” relation provides a philosophical articulati
 
 ### 3.4.3 Romantic Love as a Biological Drive and the Consequences of Misunderstanding/Repression
 
-One study argues that Romantic Love is a primary biological drive, akin to hunger or thirst, rather than an emotion. This widespread misunderstanding, entrenched by science and society, has severe consequences.
+One study argues that Romantic Love is a primary biological drive, akin to hunger or thirst, rather than an emotion.<sup>48</sup> This widespread misunderstanding, entrenched by science and society, has severe consequences.
 
-Sexual control is regarded as a major source and expression of power in many species, including humans. Religion and society have historically exploited institutionalized marriage to manufacture a “false and coerced state of love,” enforcing exclusivity in unions driven primarily by sexual interest, while punishing deviations.
+Sexual control is regarded as a major source and expression of power in many species, including humans. Religion and society have historically exploited institutionalized marriage to manufacture a “false and coerced state of love,” enforcing exclusivity in unions driven primarily by sexual interest, while punishing deviations.<sup>48</sup>
 
-The repression and distortion of romantic love as a biological drive—through sexual control and institutionalized marriage—results in “love deprivation syndromes” and severe outcomes such as relationship breakdown, divorce, suicide, and femicide. This demonstrates how domination actively corrupts a core human need, transforming a life-affirming force into a source of profound suffering and violence.
+Romantic love is argued to be a biological drive rather than an emotion<sup>48</sup>, and society’s misunderstanding or repression of it—often through sexual control and institutionalized marriage as structures of power—has led to “love deprivation syndrome,” as well as severe consequences such as suicide and femicide<sup>48</sup>. This indicates that domination actively distorts a fundamental human need, transforming the source of connection into one of profound suffering and even death—a profound form of barbarism. Sexual control has been described as “a primary source and expression of power in many animal species, including humans”<sup>48</sup>. Religion and society have “historically employed institutionalized marriage to fabricate a ‘false, coerced state of love’”<sup>48</sup>. The consequences have been explicitly identified as “serious outcomes, including relationship breakdown, divorce, suicide, and wife-killing”<sup>48</sup>. The causal chain is thus: domination (through sexual/marital control) → misunderstanding/repression of a basic human drive (love) → systemic “love deprivation syndrome” and profound suffering/death. This demonstrates how domination can corrode the biological and social foundations of human connection, transforming a life-affirming force into a source of intense pain and violence. Such a deep distortion of a core human need represents a paradigmatic instance of “primitive barbarism.”
 
 ### 3.4.4 Authoritarian Structures (e.g., Parenting Styles) and Their Impact on Emotional Well-being and Genuine Connection
 
-Authoritarian parenting, characterized by high demands and low emotional warmth, is linked to adverse outcomes in children’s emotional and psychological development. Children raised in such environments show lower psychological well-being, poorer emotion regulation, and greater reliance on suppression strategies rather than reappraisal.
+Authoritarian parenting, characterized by high demands and low emotional warmth, is linked to adverse outcomes in children’s emotional and psychological development. Children raised in such environments show lower psychological well-being, poorer emotion regulation, and greater reliance on suppression strategies rather than reappraisal.<sup>49</sup>
 
-Emotional suppression carries social costs: reduced social support, diminished intimacy, and lower satisfaction in relationships. It disrupts emotional communication and undermines authenticity.
+Emotional suppression carries social costs: reduced social support, diminished intimacy, and lower satisfaction in relationships. It disrupts emotional communication and undermines authenticity.<sup>50</sup>
 
-Adolescents with authoritarian tendencies show weaker cognitive abilities and emotional intelligence. Individuals with lower intelligence may be more drawn to authoritarianism due to a preference for simplistic solutions. Authoritarian parenting often cultivates authoritarian traits in children.
+Adolescents with authoritarian tendencies show weaker cognitive abilities and emotional intelligence. Individuals with lower intelligence may be more drawn to authoritarianism due to a preference for simplistic solutions. Authoritarian parenting often cultivates authoritarian traits in children.<sup>51</sup>
 
 This causal chain demonstrates that domination—even within the family—actively undermines authentic emotional expression and connection, perpetuating intergenerational deprivation of love. Authoritarian structures erode the capacity for genuine relationships, embedding a subtle but widespread form of barbarism at the most fundamental social unit.
 
