@@ -12,7 +12,7 @@ Our DAism team proposes "Proof of Love" (PoL) as a tripartite new governance con
 
 The paper argues how love and hate, as inherent opposing wisdoms in individuals and human society, shape governance logic. It points out that, historically, "domination" has been centered on the wisdom of hate, continuously polluting, distorting, depriving, and destroying various forms of the wisdom of love in governance mechanisms, resulting in civilization being confined to a state of barbarism. In contrast, PoL aims to align Smart Commons (including AI), the economy, and universal human values with human ethics, using the principle of "promoting love and suppressing hate" as the criterion for governance. This provides a sustained anchor for AI’s long-term safe operation, public value orientation, and the progress of human civilization. Not only does AI, alongside blockchain, serve as an autonomous core driving force in PoL’s three-pronged governance, but it also drives scientific decision-making, precise processes, and maximized efficiency in this process. All these efforts will serve as a synergistic force for humanity’s awakening, helping humanity break free from a universal barbaric state, achieve self-fulfillment, and ultimately realize a "Proof-of-Love Civilization."
 
-## Table
+## Table of Contents
 
 1. [Love, Hate, Civilization and Barbarism](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap1.md)
 2. [The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotional Experience, and Behavioral Expression](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap2.md)
