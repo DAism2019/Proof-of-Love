@@ -18,6 +18,7 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 2. [The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotional Experience, and Behavioral Expression](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap2.md)
 3. [The Convergence of Domination and Barbarism: Power as the Root of Hatred, Alienation, and Obstacles to Civilizational Development](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap3.md)
 4. [The End of Labor, The Demise of the Cage](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap4.md)
+5. [Governance of AI: Absurdity is king, but love saves us from it](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap5.md)
 
 (please keep waiting...)
 <br>
