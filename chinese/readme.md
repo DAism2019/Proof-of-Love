@@ -31,7 +31,7 @@
 
 [五、AI 的治理：荒诞当道，爱拯救之](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec5.md)
 
-[六、爱的证明：基于爱恨的治理共识](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec6.md)
+[六、爱的证明：通往人类新文明的治理共识](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec6.md)
 
 [七、从现有人类社会过渡到富爱文明的关键](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec7.md)
 
