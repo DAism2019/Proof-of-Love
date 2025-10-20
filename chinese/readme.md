@@ -41,6 +41,21 @@
 
 [附录：爱语](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/secapp.md)
 
+---
+
+欢迎继续阅读论文内容，并参与有奖活动！
+
+**相关链接**：
+- 爱的召唤奖励计划：https://daism.io/zh/communities/enki/cc98346a3fc44f008ea28a222ec8105b
+- 爱的召唤安全手册：https://daism.io/zh/communities/enki/69489a5f0a8446b8a1a4cfad6f8a8fb7
+- 爱的召唤内容提交处：https://daism.io/zh/communities/enki/07e7888a76234abe9b3f88ff128e5f5d
+
+**爱的提示**：
+本摘要因内容太少，不在奖励计划内。
+
+💖愛你！
+
+---
 
 # 【关键词】(Keywords)
 
