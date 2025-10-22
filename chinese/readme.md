@@ -28,9 +28,9 @@ Derek DAism.Zhou（周朝晖）（[0xDD@daism.io](https://daism.io/0xDD)）、Ar
 
 [八、总结](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec8.md)
 
-[Works cited](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec9.md)
-
 [附录：爱语](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/secapp.md)
+
+[Works cited](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/workscited.md)
 
 💖愛你！
 
