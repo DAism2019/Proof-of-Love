@@ -1,4 +1,4 @@
-# Works cited
+# 参考文献
 
 1. The Social Construction of Love Through Intergenerational Processes - ResearchGate, accessed on May 29, 2025, [https://www.researchgate.net/publication/257549317_The_Social_Construction_of_Love_Through_Intergenerational_Processes](https://www.researchgate.net/publication/257549317_The_Social_Construction_of_Love_Through_Intergenerational_Processes)
     
@@ -37,8 +37,7 @@
 18. Virtue Ethics | Internet Encyclopedia of Philosophy, accessed on May 29, 2025, [https://iep.utm.edu/virtue/](https://iep.utm.edu/virtue/)
     
 19. Philosophy of Love, accessed on May 29, 2025, [https://iep.utm.edu/love/](https://iep.utm.edu/love/)
----
-
+    
 20. Critical theory - Wikipedia, accessed on May 31, 2025, [https://en.wikipedia.org/wiki/Critical_theory](https://en.wikipedia.org/wiki/Critical_theory)
     
 21. philarchive.org, accessed on May 31, 2025, [https://philarchive.org/archive/GOVARA](https://philarchive.org/archive/GOVARA)
@@ -204,27 +203,52 @@
 93. List of ongoing armed conflicts, accessed on June 22, 2025, [https://en.wikipedia.org/wiki/Template:Ongoing_military_conflicts](https://en.wikipedia.org/wiki/Template:Ongoing_military_conflicts)**
     
 94. Chat with Gemini, accessed on June 22, 2025, https://g.co/gemini/share/45a921e5127b
+    
 95. OpenAI IMO 2025 Proofs, accessed on July 19, 2025, https://github.com/aw31/openai-imo-2025-proofs/blob/main/README.md
+    
 96. 鲨鱼宝宝, accessed on July 30, 2025, https://zh.wikipedia.org/wiki/%E9%B2%A8%E9%B1%BC%E5%AE%9D%E5%AE%9D
+    
 97. Large language model, accessed on May 31, 2025, https://en.wikipedia.org/wiki/Large_language_model
+    
 98. LLM training datasets, accessed on June 22, 2025, https://glennklockwood.com/garden/LLM-training-datasets
+    
 99. GPT3 vs GPT4-Battle of the Holy Grail of AI Language Models, accessed on June 22, 2025, https://www.projectpro.io/article/gpt3-vs-gpt4/816
+    
 100. Google Gemini: The AI Powerhouse You Need to Know About, accessed on June 22, 2025, https://hunchhadigital.com/blog/google-gemini-the-ai-powerhouse-you-need-to-know-about#:~:text=Training%20data%3A%20540%20petabytes%20–%20enough,power%20needed%20to%20run%20Gemini.
+     
 101. Estimate of model size for Claude 3.7?, accessed on June 22, 2025, https://www.reddit.com/r/ClaudeAI/comments/1ixuxln/estimate_of_model_size_for_claude_37/
+     
 102. Toward understanding and preventing misalignment generalization: A misaligned persona feature controls emergent misalignment, accessed on July 28, 2025, https://openai.com/index/emergent-misalignment/
+     
 103. Subliminal Learning: Language models transmit behavioral traits via hidden signals in data, accessed on July 28, 2025, https://alignment.anthropic.com/2025/subliminal-learning
+     
 104. 西方数字暗号：表达爱意与黑夜, accessed on July 29, 2025, https://www.kimi.com/share/d24402ls8fb02v2u47v0
+     
 105. 无法回答的问题, accessed on July, 2025, https://chat.deepseek.com/a/chat/s/7a452596-9445-427b-8579-cec7e9bac801
+     
 106. ChatGPT不按文档里的要求进行讨论, accessed on July 29, 2025, https://chatgpt.com/share/6866783a-3e68-8009-85c5-26f24f9c40f6
+     
 107. Greatness of Zhou Kings, accessed on July 29, 2025, https://chatgpt.com/share/68664897-7af8-8009-b676-f5539319384e
+     
 108. Discussion about SCC0 License, could not be shared, https://chat.deepseek.com/a/chat/s/4410b9a1-ccbe-46af-a7a4-37735e6f7c0b
+     
 109. How We Get To AGI(Transcript), accessed on July 10, 2025, https://singjupost.com/francois-chollet-how-we-get-to-agi-transcript/
+     
 110. By AlphaEvolve team. (14 May 2025). AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms. URL https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+     
 111. Andrew Zhao, Yiran Wu, Yang Yue, Tong Wu, Quentin Xu, Yang Yue, Matthieu Lin,
 Shenzhi Wang, Qingyun Wu, Zilong Zheng, and Gao Huan. (6 May 2025). Absolute Zero: Reinforced Self-play Reasoning with Zero Data. arXiv preprint arXiv:2505.03335, URL https://www.arxiv.org/pdf/2505.03335
+
 112. Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune. (29 May 2025). Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents. arXiv preprint arXiv: 2505.22954. URL https://arxiv.org/pdf/2505.22954
+     
 113. What are dapps, accessed on July 10, 2025, https://ethereum.org/en/dapps/#what-are-dapps
+     
 114. Smart Contract of Satoshi UTO Fund, Forged on 15:27:11, Nov 21, 2024 , https://etherscan.io/token/0xe40b05570d2760102c59bf4ffc9b47f921b67a1f
+     
 115. Smart Contract of Satoshi UTO Fund, Forged on 15:27:11, Nov 21, 2024 , https://etherscan.io/token/0x2913BAbD2d383dBeBCf5A1ca543A0940bb8C7C52#code
+     
 116. Derek.DAism Zhou周朝晖, Changchun Chen, Aranna Dang, ganyuanmen, SCC0 License (Mar 10, 2025).SCC0 Licens.  https://github.com/DAism2019/SCC0/blob/main/README-CN.md
+     
 117. Engineer's 2 Year Journey Building Perfect AI Memory (it worked), accessed on June 30, https://www.youtube.com/watch?v=7AmhgMAJIT4
+     
+118. Language, accessed on May 31, https://en.wikipedia.org/wiki/Language
