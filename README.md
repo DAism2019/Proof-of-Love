@@ -19,10 +19,12 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 3. [The Convergence of Domination and Barbarism: Power as the Root of Hatred, Alienation, and Obstacles to Civilizational Development](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap3.md)
 4. [The End of Labor, The Demise of the Cage](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap4.md)
 5. [Governance of AI: Absurdity is king, but love saves us from it](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap5.md)
-
-(please keep waiting...)
+6. [Proof of Love: A Governance Consensus Leading to Next Civilization](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap6.md)
+7. [The Key to Transitioning from Existing Human Society to the Proof-of-Love Civilization](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap7.md)
+8. [Conclusion](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap8.md)
+9. [Appendix: Love Languages](https://github.com/DAism2019/Proof-of-Love/blob/main/english/Appendix.md)
+10. [Works Cited](https://github.com/DAism2019/Proof-of-Love/blob/main/english/workscited.md)
 <br>
-
 
 # 爱的证明：治理 AI 和人类文明的共识机制
 
