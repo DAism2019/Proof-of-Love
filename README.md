@@ -1,6 +1,7 @@
 # Proof of Love: The Consensus of AI and Next Civilization
 
-<p style="text-align: center; ”">V 3.0</p>
+<center>[v3.0] 22 Oc 2025 23:16</center>
+<br>
 
 <center>Derek DAism.Zhou<sup>1,2</sup>、Aranna Dang<sup>1,3</sup></center>
 
@@ -30,7 +31,7 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 
 # 爱的证明：治理 AI 和人类文明的共识机制
 
-<center>[v1.0] Wed. 3 Sep 2025 23:16 UTC+08:00</center>
+<center>[v3.0] 22 Oc 2025 23:16</center>
 <br>
 <center>Derek DAism.Zhou（周朝晖）<sup>1,2</sup>、Aranna Dang（邓雯慧）<sup>1,3</sup></center>
 
