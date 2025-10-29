@@ -1,11 +1,13 @@
-# 1. Love, Hate, Civilization and Barbarism
+## 1. Love, Hate, Civilization and Barbarism
 
-## 1.1 Love
+### 1.1 Love
 Although love existed widely in the animal kingdom long before the emergence of humankind, its understanding and expression in philosophy, religion, and diverse cultures have always shown significant differences. This divergence is largely due to the destruction caused by rulers—the guardians and mass-producers of hatred—as well as to humanity’s ongoing process of developing and enriching love itself.
 
 Through our research, we believe that **love 2.0** can now be unified under the following description:
 
-Love is a positive emotional experience and virtuous behavioral pattern, collectively constructed through public cooperation and collective wisdom, by which human beings secure peace and healthy development for themselves, improve interpersonal relations, and advance overall social progress. The motivation for love is, and can only be, mutual benefit.
+Love is a positive emotional experience and virtuous behavioral pattern, collectively constructed through public cooperation and collective wisdom, by which human beings secure peace and healthy development for themselves, improve interpersonal relations, and advance overall social progress. 
+
+The motive of love, in interpersonal relations, is and can only be mutual benefit; in the realm of social governance, it manifests as fairness, justice, and universal inclusiveness.
 
 Love is an advanced management mechanism crafted by human wisdom—it serves both as the “safety valve” between energy and emotion, and as the “compass” between words, deeds, and relationships. Its purpose is to ensure individual growth in peace and health, optimize human interactions, and promote harmony, stability, and sustainable development in society.
 
@@ -57,7 +59,7 @@ Thus, to restore ethics to its true source, only love—that which brings positi
 
 In short: Love is each individual’s wisdom of self-management in emotion and behavior, humanity’s social management wisdom, and the core ethic of human civilization.
 
-## 1.2 Hatred and Barbarism
+### 1.2 Hatred and Barbarism
 
 According to Wikipedia, hatred is an intense negative emotional response toward certain people, things, or ideas, often associated with opposition or aversion. Hatred is frequently linked with strong anger, contempt, and disgust, and is sometimes regarded as the opposite of love.
 
@@ -73,7 +75,7 @@ We define **barbarism or barbaric behavior** as any deliberate act that harms, o
 
 Thus, barbarism is the opposite of civilization.
 
-## 1.3 Civilization
+### 1.3 Civilization
 
 The word "civilization" is often used in two distinct contexts. Narrowly, it describes a particular culture, including the characteristics, lifestyle, and norms of a specific people or nation. At this point, civilization refers to the social governance consensus within a population or nation. This is the framework behind phrases like “Indian civilization” or “Western civilization,” constructed for purposes of horizontal and vertical comparison.
 
@@ -87,7 +89,7 @@ Contemporary society is widely perceived as “highly civilized.” Many believe
 
 Yet reality is sobering: human history to this day remains mired in oppression, alienation, and enslavement between people. Human societies continue to exist in a state where civilization and barbarism coexist. Humanity is still on the path toward genuine civilization.
 
-## 1.4 Proof of Love and the Affluent Love Civilization
+### 1.4 Proof of Love and the Affluent Love Civilization
 
 Civilization and barbarism are like two entangled quantum spin states. This means that a civilized person, civilized behavior, or a civilized society not only avoids the violence, bloodshed, and cruelty of barbarism, but also moves in the opposite direction—being driven by love, and expressing love through actions that generate positive emotional experiences and beneficial effects for oneself and others: life, dignity, freedom, ecology, or spirit.
 
