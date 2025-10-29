@@ -3,9 +3,7 @@
 <center>[v3.0] 22 Oc 2025 23:16</center>
 <br>
 
-<center>Derek DAism.Zhou<sup>1,2</sup>、Aranna Dang<sup>1,3</sup></center>
-
-<sup>1</sup>DAism (daism.io), <sup>2</sup>0xDD@daism.io, <sup>3</sup>0xAranna0572@daism.io
+Derek DAism.Zhou (0xDD@daism.io), Aranna Dang (0xAranna0572@daism.io)
 
 ## Abstract
 
