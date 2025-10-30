@@ -1,4 +1,4 @@
-# 4. The End of Labor, The Demise of the Cage
+## 4. The End of Labor, The Demise of the Cage
 
 The origin of human labor is simple to understand: in an era of extreme scarcity, everyone had to work to support themselves and their families. A look at our close relatives, chimpanzees, reveals that dominance is a group management mechanism among them. We believe early humans most likely inherited this form of management, as it has been the most effective method to date for organizing large-scale collaboration, managing resource conflicts, ensuring collective security, and governing complex societies. Concurrently, human dominators naturally adopted labor as a core tool for maintaining their domination.
 
