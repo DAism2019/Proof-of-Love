@@ -63,9 +63,9 @@ Derek DAism.Zhou（周朝晖） ([0xDD@daism.io](https://daism.io/0xdd))，Arann
 
 [八、总结](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec8.md)
 
-[Works cited](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec9.md)
-
 [附录：爱语](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/secapp.md)
+
+[Works cited](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec9.md)
 
 ## 全文
 [深吸一口气阅读 1.0a 全文](https://github.com/DAism2019/Proof-of-Love/blob/main/memo/README.md)
