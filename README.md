@@ -1,9 +1,9 @@
 # Proof of Love: The Consensus of AI and Next Civilization
 
-<center>[v3.0] 22 Oc 2025 23:16</center>
-<br>
+v3.0] 22 Oc 2025 23:16
 
 Derek DAism.Zhou ([0xDD@daism.io](https://daism.io/0xdd)), Aranna Dang ([0xAranna0572@daism.io](https://daism.io/0xdd))
+
 
 ## Abstract
 
@@ -30,12 +30,10 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 
 # 爱的证明：治理 AI 和人类文明的共识机制
 
-<center>[v3.0] 22 Oc 2025 23:16</center>
-<br>
+v3.0] 22 Oc 2025 23:16
 
-Derek DAism.Zhou周朝晖 ([0xDD@daism.io](https://daism.io/0xdd)), Aranna Dang邓雯慧 ([0xAranna0572@daism.io](https://daism.io/0xdd))
+Derek DAism.Zhou（周朝晖） ([0xDD@daism.io](https://daism.io/0xdd)), Aranna Dang（邓雯慧） ([0xAranna0572@daism.io](https://daism.io/0xdd))
 
-<br>
 
 ## 【摘要】
 
