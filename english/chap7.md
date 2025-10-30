@@ -1,6 +1,6 @@
-# 7. The Key to Transitioning from Existing Human Society to the Proof-of-Love Civilization
+## 7. The Key to Transitioning from Existing Human Society to the Proof-of-Love Civilization
 
-## 7.1 A New Identity Management: Hello World Verification
+### 7.1 A New Identity Management: Hello World Verification
 
 On June 18, 2025, the CEO of **New Computer**, when presenting her team’s progress in AI Memory, mentioned that AI needs to understand every aspect of users’ information<sup>117</sup>:
 
@@ -44,7 +44,7 @@ That’s it!
 
 In the following implementation of the **Universal Love Engine (ULE)**, third-party applications can simply use devices to let users scan their face, fingerprint, or iris. They then directly obtain the user’s DID from the verifying AI, and record billing or other data into smart contracts.
 
-## 7.2 The Love Engine
+### 7.2 The Love Engine
 
 PoL (Proof of Love), through the **Universal Love Engine (ULE)**, provides everyone with life-governing strategies, with early token guarantees supplied by SUF.
 
@@ -54,7 +54,7 @@ We recognize that implementing ULE is not a simple task. The greatest challenge 
 
 ULE must undergo a long-term, step-by-step developmental process, since it is a collection that will continually expand with sub-programs in the future. Here we briefly discuss only a few main components: the **Ethics Challenge**, **SBFSC**, **UAS**, and **UBI**.
 
-### 7.2.1 Ethics Challenge
+#### 7.2.1 Ethics Challenge
 
 The Ethics Challenge is essentially the ethical audit work after governance. This work is conducted in an open, collaborative mode:
 
@@ -69,11 +69,11 @@ The Ethics Challenge is essentially the ethical audit work after governance. Thi
 - Both offense and defense remain open and transparent.
     
 
-### 7.2.2 Security Bounty for Smart Commons (SBFSC) 1.0α
+#### 7.2.2 Security Bounty for Smart Commons (SBFSC) 1.0α
 
 The **Security Bounty for Smart Commons (SBFSC)** is dedicated to securing Smart Commons, including the fund itself.
 
-#### 7.2.2.1 Governance Goals of SBFSC
+##### 7.2.2.1 Governance Goals of SBFSC
 
 In short: **No Hacking** and an **AI-Neutral Decision-Making Mechanism**.
 
@@ -101,7 +101,7 @@ No Hacking is a great revolution for the internet!
 3. After public submission of a bug report or fix proposal for AI review, AI issues an **SBFSC Report** with a three-week public review period. If no objections arise, the reporter and reviewer are rewarded. If objections do arise, an open hearing begins.
     
 
-#### 7.2.2.2 Governance Rules of SBFSC 1.0α
+##### 7.2.2.2 Governance Rules of SBFSC 1.0α
 
 **I. Reward Quantification**
 Translator：[Gemini](https://gemini.google.com/app/bc06a55ee531a31e)
@@ -282,7 +282,7 @@ Through these supplementary rules, the Security Bounty for Smart Commons program
 
 This 1.0α version is the minimum viable product (MVP) of SBFSC, ensuring rules are clear and executable immediately. Predictive details, complex conditional branches, and refined adjudication mechanisms will gradually be taken over and optimized by AI in future versions, enhancing execution efficiency, reducing human governance burden, and enabling dynamic, intelligent evolution of rules.
 
-### 7.2.3 Universal Abundant Supply (UAS) 0.1α
+#### 7.2.3 Universal Abundant Supply (UAS) 0.1α
 
 **Universal Abundant Supply (UAS)** is a fair, public welfare program shared by all humanity. It will unconditionally provide every person with a regular and permanent supply of necessities (such as food, clothing, etc.) needed for a prosperous life.
 
@@ -295,7 +295,7 @@ UAS guarantees humanity’s fundamental right to **abundant living needs**:
 
 ---
 
-### 7.2.4 Universal Basic Income (UBI) 1.0α
+#### 7.2.4 Universal Basic Income (UBI) 1.0α
 
 This is a transitional program. If UAS can only be implemented gradually, UBI standards will be reduced accordingly.
 
@@ -312,7 +312,7 @@ This is a transitional program. If UAS can only be implemented gradually, UBI st
 - Precision: **up to 8 decimal places**.
     
 
-### 7.2.5 Brief Introduction to UHAH and UCR
+#### 7.2.5 Brief Introduction to UHAH and UCR
 
 **Universal Healthcare for All Humanity (UHAH)** and **Universal Crisis Relief (UCR)** are by no means unimportant. On the contrary, they address crises that may erupt locally or even globally at any time. For example:
 
