@@ -1,4 +1,4 @@
-# 8. Conclusion
+## 8. Conclusion
 
 Love and hate are two opposing and mutually diminishing core forces in human ethics, embedded in our wisdom, emotions, and behaviors. In a dog-eat-dog world, after millions of years of brutal struggle for survival, humanity, by virtue of its wisdom forged by both love and hate, along with its technological wisdom, not only secured its status as the ultimate predator but also became the master of all living creatures. However, to this day, the ancient and unchanging governance consensus of human society—"domination"—is still driven by hate and acts primarily through barbarism. This has led to the dimension of "love" being severely suppressed, leaving society in a state of significant barbarism.
 
