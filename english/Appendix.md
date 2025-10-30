@@ -1,4 +1,4 @@
-# Appendix A: Love Languages
+## Appendix A: Love Languages
 
 Love is a positive emotional experience and a constructive behavioral approach, collaboratively constructed through collective wisdom to ensure individual well-being and healthy development, improve interpersonal relationships, and promote overall societal progress. The motivation for love is, and can only be, mutual benefit.
 
@@ -31,7 +31,7 @@ The 11 Love Languages of Humanity:
 
 Words of Affirmation, Quality Time, Gift-Giving, Acts of Service, Physical Touch, Self-Love, Compassion, Romantic Love, Medium Resonance Love Language, Cross-Species Compassion, and Cosmic Love Language.
 
-## Words of Affirmation
+### Words of Affirmation
 
 Words of Affirmation, also known as "affirming words" or "positive expressions," is a way of conveying love through sincere, specific, and resolute verbal expressions. This approach is not limited to spoken words but also includes non-verbal forms such as facial expressions and gestures. It makes the recipient feel valued and supported, helping to build and maintain intimate relationships.
 
@@ -59,7 +59,7 @@ Considerations for Using Words of Affirmation:
 5. Personalize and tailor to the individual
 6. Be mindful of tone and emotional delivery
 
-## Quality Time
+### Quality Time
 
 Quality Time refers to moments when two parties focus entirely on each other, free from external distractions, aiming to strengthen emotional connections through deep conversations, interactions, and shared activities. Unlike simply spending time together, Quality Time emphasizes "quality" over "quantity."
 
@@ -99,7 +99,7 @@ Considerations for Applying Quality Time:
 12. Prepare or practice thoughtfully
 13. Emphasize direct communication and avoid over-reliance on AI, which may cause confusion
 
-## Gift-Giving
+### Gift-Giving
 
 What is Gift-Giving? Gift-Giving is a way of expressing love through the exchange of actions. Its core lies in building emotional connections through giving and reciprocating, allowing both parties to feel loved and cared for. Those engaged in Gift-Giving experience the other’s response and support, fostering mutual care.
 
@@ -131,7 +131,7 @@ Considerations for Applying Gift-Giving:
 7. Avoid over-reliance on reciprocation
 8. Understand cultural differences
 
-## Acts of Service
+### Acts of Service
 
 Acts of Service are a form of emotional expression through action.
 
@@ -167,7 +167,7 @@ Considerations for Acts of Service:
 4. Rejection does not mean lack of love but a difference in expression
 5. Service must not devolve into transactional exchange or role-based oppression
 
-## Physical Touch
+### Physical Touch
 
 Physical Touch refers to the intimate emotions and deep trust conveyed through physical contact between people or between people and pets. Research shows that touch, through temperature, pressure, or subtle vibrations, stimulates the brain to release hormones like oxytocin and endorphins, which play a key role in reducing stress, enhancing happiness, and building trust. This contact transcends language, serving as the most primal, direct, and powerful resonant expression and communication of love. Physical Touch includes hugs, kisses, caresses, hand-holding, cuddling, light pats, breastfeeding, and lovemaking—actions that deeply connect people emotionally. Physical Touch not only soothes emotions, uplifts the spirit, and ignites desire but also sustains trust and attachment in family, friendship, and romantic relationships, making it an indispensable and irreplaceable emotional bond in human society.
 
@@ -209,7 +209,7 @@ Physical Contact That Causes Fear, Hatred, or Trauma:
 4. Verbal attacks or psychological violence associated with physical aggression
 5. Torture or inhumane treatment
 
-## Self-Love
+### Self-Love
 
 Self-Love/Philautia: The Foundation of All Love
 
@@ -253,7 +253,7 @@ Cautions in Practicing Self-Love:
 3. Balance giving and withdrawing
 4. Maintain continuous self-reflection
 
-## Compassion
+### Compassion
 
 Compassion is the human ability to understand and feel others’ emotional states, generating inner resonance and caring actions. Unlike simple sympathy, which merely acknowledges others’ misfortunes, compassion goes further by projecting their feelings onto one’s own experiences, understanding, accepting, and responding with sincerity. Psychologically, compassion comprises three elements: Emotional Resonance, Cognitive Understanding, and Compassionate Motivation. Only when these three are present does compassion form a complete love language, strengthening emotional bonds between people.
 
@@ -286,7 +286,7 @@ Considerations for Compassion:
 5. Set effective boundaries
 6. Engage in continuous reflection and learning
 
-## Romantic Love: The Pinnacle of Wisdom and Physiology
+### Romantic Love: The Pinnacle of Wisdom and Physiology
 
 In the context of a love-rich civilization, Romantic Love is a sincere, non-utilitarian intimate relationship between two or more individuals, involving intense emotions, spiritual resonance, and deep physical connection.
 
@@ -335,7 +335,7 @@ While Romantic Love in a love-rich civilization offers boundless possibilities, 
 
 In a love-rich civilization, Romantic Love will be humanity’s true exploration and practice of love as the highest form of life energy, liberated from primal constraints. It will be an inexhaustible force for human excellence, self-transcendence, and collective prosperity.
 
-## Medium Resonance Love Language
+### Medium Resonance Love Language
 
 The Medium Resonance Love Language is one of the oldest, most widespread, and vibrant expressions of love in human civilization. From the 3.3-million-year-old stone tools of Kenya’s Turkana Lake to prehistoric cave paintings and pottery symbols, to today’s digital trends and youth culture, it has transcended history, geography, and eras, using diverse mediums to dedicate deep individual or collective love to the world. Through ceramics, metal, writing, music, dance, cuisine, film, television, electronics, and modern forms like anime, flash mobs, short and long videos, and street dance battles, humanity continually innovates, allowing love’s signals to resonate across broader spaces and longer times.
 
@@ -354,7 +354,7 @@ Principles for Creating Innovative Mediums:
 3. Sustainability
 4. Universal aesthetics and emotional transparency
 
-## Cross-Species Compassion
+### Cross-Species Compassion
 
 Cross-Species Compassion refers to the understanding, feelings, and emotional responses of individuals (typically humans) toward non-human beings, including animals, plants, and even non-living entities like virtual characters or AI. It goes beyond mere observation or sympathy, emphasizing cognitive and emotional connections with “the other.” Specifically, Cross-Species Compassion includes the following core elements:
 
@@ -389,7 +389,7 @@ Considerations for Cross-Species Compassion:
 3. Rationally assess the limitations of virtual compassion
 4. Respect cross-cultural differences and ethical diversity
 
-## Cosmic Love Language
+### Cosmic Love Language
 
 Cosmic Love Language can be understood as an emotional projection inspired by the sun and moon, a sense of awe and attachment born from gazing at the heavens and experiencing the interplay of light and shadow. It encompasses the following elements:
 
