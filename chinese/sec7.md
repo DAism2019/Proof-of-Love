@@ -1,6 +1,6 @@
-# 七、从现有人类社会过渡到富爱文明的关键
+## 七、从现有人类社会过渡到富爱文明的关键
 
-## 7.1 新的身份管理：Hello World验证
+### 7.1 新的身份管理：Hello World验证
 
 2025年6月18日，New Computer 的CEO介绍其团队在AI Memory方面的工作成绩时，提到AI 要了解到用户的方方面面的信息<sup>117</sup>：
 
@@ -36,7 +36,7 @@ Hello World 验证（Hello World Verification）看起来很简单，特别像�
 
 在下面的“全民爱的引擎”的实施中，第三方应用只需要通过设备让用户刷脸、按指纹、扫虹膜即可直接从验证 AI 获得用户的 DID，然后就能够将账单等数据记录到智能合约里。
 
-## 7.2 爱的引擎
+### 7.2 爱的引擎
 
 PoL 爱的证明通过全民爱的引擎（Universal Love Engine，ULE），为所有人提供生活治理策略。早期由 SUF 为其提供通证保障。
 
@@ -46,7 +46,7 @@ ULE 包括智能公器安全赏金计划（Security Bounty for Smart Commons, SB
 
 全民爱的引擎需要有一个长期逐步发展的过程，因为它是一个未来将会不断拓展出子方案的集合的总称。在此仅以伦理挑战（Ethics Challenge）、智能公器安全赏金计划（Security Bounty for Smart Commons, SBFSC）、全民富裕供给（Universal Abundant Supply, UAS）、全民基本收入（Universal basic income, UBI）为主，稍作探讨性的描述。
 
-### 7.2.1 伦理挑战（Ethics Challenge）
+#### 7.2.1 伦理挑战（Ethics Challenge）
 
 伦理挑战（Ethics Challenge）实际上就是治理后的伦理审计工作。这一工作采用开放性协作的模式进行：
 - 任何人都可以对 AI 发起挑战，且挑战可能不是刻意而为之，而是使用中发现的问题，即可报告。
@@ -55,11 +55,11 @@ ULE 包括智能公器安全赏金计划（Security Bounty for Smart Commons, SB
 - 错误判例如何补偿，也交给大语言模型。
 - 攻防都公开透明。
 
-### 7.2.2 智能公器安全赏金计划（Security Bounty for Smart Commons, SBFSC）1.0α
+#### 7.2.2 智能公器安全赏金计划（Security Bounty for Smart Commons, SBFSC）1.0α
 
 “智能公器安全赏金计划”（Security Bounty for Smart Commons，简称SBFSC）致力于保障包括基金在内的智能公器的安全。
 
-#### 7.2.2.1 Security Bounty for Smart Commons 的治理目标
+##### 7.2.2.1 Security Bounty for Smart Commons 的治理目标
 
 简言之，就是 No Hacking 和 AI 中立决策机制！
 
@@ -79,7 +79,7 @@ AI 中立决策机制：
 2.  AI 将是最关键的协作者。AI 如果独立发现了 Bug ，也应该让该 AI 的开发者获得奖励。
 3.  安全问题报告或安全修复提案，公开提交 AI 审核后，AI 出具 SBFSC 报告，并进行三周公示期。如无异议，报告者和审核者获得奖励。如有异议，进入公开质询。
 
-#### 7.2.2.2 Security Bounty for Smart Commons 1.0α 的治理策略
+##### 7.2.2.2 Security Bounty for Smart Commons 1.0α 的治理策略
 
 **（一）奖励量化**
 
@@ -202,7 +202,7 @@ AI 中立决策机制：
 预判性细节、复杂分支条件及更精细化的裁定机制将在未来版本中逐步由 AI 接管与优化，以提高执行效率、减少人工治理压力，并实现动态化、智能化的规则演化。
 
 ***
-### 7.2.3 全民富裕供给（Universal Abundant Supply, UAS）0.1α
+#### 7.2.3 全民富裕供给（Universal Abundant Supply, UAS）0.1α
 
 全民富裕供给（Universal Abundant Supply，UAS）是为全球人类所共享的一项公平公共福利方案，它将无条件地为每个人永久定期地提供满足富裕的生活所需（如食品、服装等）的供给。
 
@@ -212,7 +212,7 @@ UBS 用于保障人类基本公平的权利，即富裕的生活需求：
 2. 最终不会给任何人发放通证，而是直接供给。不过，在实现全部供给之前，需要发放通证作为过渡手段——这就涉及到以下的“全民基本收入”了。
 
 ***
-### 7.2.4 全民基本收入（Universal basic income, UBI）1.0α
+#### 7.2.4 全民基本收入（Universal Basic Income, UBI）1.0α
 
 这是一个过渡性方案。如果全民富裕供给只能逐步实施，那么它的发放标准将与之配套而逐步减少。
 
@@ -224,7 +224,7 @@ UBS 用于保障人类基本公平的权利，即富裕的生活需求：
 - 实际计算精度：小数点后8位。
 
 ***
-### 7.2.5 全民健保和全民危机救济极简介绍
+#### 7.2.5 全民健保和全民危机救济极简介绍
 
 全民健保（Universal Healthcare for All Humanity, UHAH）、全民危机救济（Universal Crisis Relief, UCR）并非不重要，恰恰相反，它们都是随时可能在局部甚至在全球爆发的危机。例如：
 
