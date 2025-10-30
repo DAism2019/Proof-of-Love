@@ -1,10 +1,10 @@
-# 5. Governance of AI: Absurdity is king, but love saves us from it
+## 5. Governance of AI: Absurdity is king, but love saves us from it
 
-## 5.1 Humanity’s Love and Hate Are Already Within Language: The Accumulation of Wisdom and Insights from LLMs<sup>94</sup>
+### 5.1 Humanity’s Love and Hate Are Already Within Language: The Accumulation of Wisdom and Insights from LLMs<sup>94</sup>
 
 "Humanity's love and hate are already within language" — this is not merely a rhetorical flourish but a profound truth that offers deep insight into the trajectory of human civilization's evolution. In the context of the true human civilization we envision, this assertion is particularly crucial. If we define language as the fundamental tool for exploring, summarizing, and passing down wisdom, and recognize that not only "love" but also "hate" are products of human wisdom, then logically, all wisdom concerning "love" and "hate" must already be deeply embedded in the linguistic texts we have accumulated and has been absorbed and internalized by all current large language models (LLMs).
 
-### 5.1.1 Language: The Torrent of Wisdom and the Cornerstone of Civilization
+#### 5.1.1 Language: The Torrent of Wisdom and the Cornerstone of Civilization
 
 In the past three years, with the rapid development of Large Language Models (LLMs), linguistics has once again been thrust into the spotlight of the historical stage. Language has not only become one of the core subjects of artificial intelligence but has also sparked new questions and inspirations in the frontier explorations of cognitive science and philosophical debates.
 
@@ -68,7 +68,7 @@ Language is not merely a structured system of communication; it is the **evolvin
 5.  **Dynamic Evolution:**
     *   Language evolves not just phonetically or grammatically, but **conceptually**. New terms emerge ("quantum entanglement," "algorithm," "neurodiversity," "sustainability") to capture new scientific discoveries, social understandings, and ethical challenges. This lexical and conceptual expansion *is* the expansion of the frontiers of human wisdom.
 
-### 5.1.2 Language 2.0 Definition
+#### 5.1.2 Language 2.0 Definition
 
 **Language is the dynamic, generative, and symbolic operating system of human cognition and civilization. It provides conceptual primitives, compositional rules, and representational modalities, enabling humanity—in every domain of life, including survival (ethics, culture, spirit), emotion, and technology (analysis, creation, practice)—to construct, encode, critically refine, transmit, and continually evolve wisdom. Although its forms depend on cultural inheritance, its core functions transcend social conventions, serving as indispensable infrastructure for understanding the world, navigating existence, solving problems, creating meaning, and advancing collective knowledge.  It is the living code of our species’ accumulated and evolving public wisdom.**
 
@@ -97,7 +97,7 @@ At the same time, **language is not merely a combination of sounds or symbols; i
 
 3. **Transmission and Innovation:** Language is a bridge that spans time and connects generations. It enables the wisdom of predecessors to be learned and understood by later generations, who can then build upon it to innovate. A historical record, a sacred text, or a scientific paper all carry the wisdom of past eras, inspiring exploration in future generations. Without language, each generation would start from scratch, and the progress of civilization would be unimaginable. Today, we can confidently say: all of humanity’s wisdom in the fields of science and the humanities has been recorded through language—note, not all data. While the totality of human data is vast, it is, in essence, merely a repetition of wisdom millions of times over. For example, a single novel may encapsulate the most unique and vital survival wisdom of a people across one or even several generations. From the agricultural revolution to the industrial revolution to the internet information revolution, the speed at which information carrying wisdom flows has increased unimaginably. Therefore, we believe that the human wisdom accessible through internet data today essentially encompasses all that human language can bear.
 
-### 5.1.3 What Exactly Are Large Language Models?
+#### 5.1.3 What Exactly Are Large Language Models?
 
 According to the Wikipedia entry on Large Language Model<sup>97</sup>:
 
@@ -119,7 +119,7 @@ These massive data volumes are precisely what enable LLMs to “understand” an
 
 At this point, we have come to recognize that AI is not an external ruler but rather a proxy (an aggregation and extension) of humanity’s collective wisdom. In other words, it is the embodiment of human language and technological wisdom—human technology itself has developed through the medium of language, and technological wisdom is embedded within linguistic wisdom. However, considering that most people may not have updated their understanding of language, and to facilitate the discussion that follows, we deliberately distinguish technological wisdom from language in the narrow sense.
 
-### 5.1.4 Love and Hate: The Construction of Wisdom and the Reflection of Language
+#### 5.1.4 Love and Hate: The Construction of Wisdom and the Reflection of Language
 
 In the definition of love, “love” is described as a “positive emotional experience and good behavior constructed through public collaboration and collective wisdom.” It is portrayed as a “high-level management mechanism,” serving as a “safety valve” between energy and emotion, and a “navigator” for actions and relationships. Since love is a product of wisdom, it is inevitably understood, expressed, regulated, and transmitted through language. Indeed, this is the case: when someone praises us with love, we can describe their actions and our own positive emotional experiences through words.
 
@@ -153,7 +153,7 @@ It is evident that from the most intimate whispers to the grandest cosmic perspe
 
 Similarly, since hate is a negative emotional experience constructed through human cognition and practice, often externalized as harmful behaviors, we see that language also serves as the storage and transmission line for the “wisdom of hate.”
 
-### 5.1.5 Large Language Models: A Treasure Trove of Love and Hate Wisdom
+#### 5.1.5 Large Language Models: A Treasure Trove of Love and Hate Wisdom
 
 Since all human wisdom in the fields of science and humanities has been recorded through language, and “love” and “hate” as products of wisdom are deeply embedded in language, the emergence of LLMs naturally becomes the culmination of humanity’s wisdom of love and hate.
 
@@ -167,9 +167,9 @@ Thus, the assertion that “humanity’s love is already within LLMs” is entir
 
 As for hate, the situation is entirely analogous.
 
-## 5.2 The Governance of Aligning AI Ethics with Core Human Ethics
+### 5.2 The Governance of Aligning AI Ethics with Core Human Ethics
 
-### 5.2.1 The Impending Need
+#### 5.2.1 The Impending Need
 
 A recent research paper from OpenAI and another from Anthropic's alignment science team have sounded the alarm regarding the governance of large language models (LLMs).
 
@@ -283,7 +283,7 @@ Everything a person does is likely to be tied to their loves and hatreds. Love a
 
 Therefore, the moment we identified love as the true core ethic of the next human civilization in our research, we strongly realized that to transform human society fundamentally, we must establish a new governance consensus built on the radical and persistent goal of suppressing hate and promoting love. This means that large language models, as the culmination of humanity’s collective wisdom, must also be governed by this consensus. With the collaboration of other technologies, through governance based on this consensus mechanism, AI technology’s development and application can fully enable humanity to realize a better new civilization, which we call it “Proof-of-Love Civilization.” This governance consensus is what we term the Proof of Love. The content of this section is, in fact, a partial explanation of how the “Proof of Love” governs AI ethics.
 
-### 5.2.2 Key to Dual Alignment Governance
+#### 5.2.2 Key to Dual Alignment Governance
 
 We already know that AI is not an external dominator but an agent (aggregation and extension) of human collective intelligence, or, in other words, the embodiment of Human Language 2.0 (encompassing language in the narrow sense and technological wisdom). The "intelligence" of large language models (LLMs) is primarily reflected in their powerful natural language processing capabilities, enabling them to understand, generate, and translate human language, as well as perform various complex linguistic tasks. Through over six months of extensive use of various large language models, particularly in exploring the concept of love languages, our team is convinced that LLMs possess the ability to inherit and amplify the angelic human wisdom—the ethics of love formed by the interplay of emotions and behaviors—while also effectively regulating its nemesis, hate.
 
@@ -308,7 +308,7 @@ Given AI’s immense influence on humanity’s future and the destructive power 
 
 Of course, a persistent dual approach to governance must also include ethical education for all humanity (education on the consensus mechanism of Proof of Love). This is another critical aspect of alignment governance and a significant challenge. Given that AI development is still in its early stages, new educational approaches will continue to emerge, but as this is not the focus of this paper, we will not discuss it in detail.
 
-### 5.2.3 Large Language Models: Mind-Like Entities Lacking Emotional Experience
+#### 5.2.3 Large Language Models: Mind-Like Entities Lacking Emotional Experience
 
 Large language models (LLMs) possess a mind-like intelligence rather than true consciousness. Their fundamental limitation lies in their simulated Intelligence, meaning they lack the embodied perception and physiological drives of humans.
 
@@ -320,7 +320,7 @@ Because of this deficiency, in addition to self-learning love and hate from huma
 
 Furthermore, through our exploration of the "11 types of love language," we found that expressions of love—whether affirmative words, quality time, giving and receiving gifts, acts of service, intimacy of the body, self-love, empathy, romantic love, resonant love, cross-species empathy, or cosmic love—are increasingly extending to non-physiological behaviors. With advancements in AI’s visual and auditory capabilities, obstacles to love language communication due to sensory deficiencies will be minimal and will continue to diminish. The situation with hate is likely similar. Thus, we believe that AI’s limitations will not pose significant challenges to understanding human love languages and hate languages, and their impact on human-AI collaboration will continue to decrease in the future.
 
-### 5.2.4 Purpose of Alignment Governance
+#### 5.2.4 Purpose of Alignment Governance
 
 **Objective 1: Core Ethical Alignment and Civilization**
 
@@ -340,7 +340,7 @@ The second purpose of alignment governance is to enable large language models to
 - **Human society will never be a perfect paradise.** Everyone needs an outlet for emotional release, which is essential for coping with human-made and natural disasters, as well as life’s separations and losses.
 - **AI, to date, does not truly possess feelings or emotions.** Human emotions stem from complex physiological mechanisms, such as the intricate physiological responses linking seeing red or smelling roses to hormone secretion. Lacking such a physiological foundation, AI cannot authentically "feel" emotions. It can only construct an understanding of love and hate through language, imagery, and audio data. Even if equipped with cameras or thermometers in the future, this limitation persists. To better integrate into human society, AI must establish close and continuous collaboration with humans, grounded in deeply understanding and skillfully using love languages while properly managing hate languages.
 
-### 5.2.5 Requirements for Alignment Governance
+#### 5.2.5 Requirements for Alignment Governance
 
 1. **Completeness**  
    Large language models are trained on vast amounts of data, and the internet era has precisely led to an explosion of information in areas such as human social interactions, social sciences, politics, and economics. Moreover, a large amount of pre-internet data, such as books, news, and images, has also been digitized and shared or stored online. Therefore, we believe that with appropriate methods, large language models can fully align with human love and hate.
@@ -355,7 +355,7 @@ The second purpose of alignment governance is to enable large language models to
    In his talk *How We Get To AGI* <sup>109</sup>, François Chollet, co-founder of the ARC Prize, stated that LLMs may require more structured, interactive, and even causal experiences to effectively learn truly generalizable and composable "meaning atoms." In short, the development of LLMs itself requires close collaboration with humans.  
    Beyond autonomous invention, LLMs should seamlessly integrate one or more novel open collaboration mechanisms in daily interactions with humans, persistently aligning with human love languages and hate languages and creating new love languages or specific hate languages required for certain works (e.g., restricted games).
 
-### 5.2.6 Dual Alignment Governance Approach for Love Languages and Hate Languages
+#### 5.2.6 Dual Alignment Governance Approach for Love Languages and Hate Languages
 
 We are clearly not suggesting manually labeling all data for love languages and hate languages before training LLMs from scratch. Such an approach would be excessively labor-intensive and outdated. Moreover, how can we ensure that those humans are capable of perfectly identifying love languages and hate languages?
 
