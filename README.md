@@ -15,16 +15,17 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 
 ## Table of Contents
 
-1. [Love, Hate, Civilization and Barbarism](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap1.md)
-2. [The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotional Experience, and Behavioral Expression](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap2.md)
-3. [The Convergence of Domination and Barbarism: Power as the Root of Hatred, Alienation, and Obstacles to Civilizational Development](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap3.md)
-4. [The End of Labor, The Demise of the Cage](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap4.md)
-5. [Governance of AI: Absurdity is king, but love saves us from it](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap5.md)
-6. [Proof of Love: A Governance Consensus Leading to Next Civilization](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap6.md)
-7. [The Key to Transitioning from Existing Human Society to the Proof-of-Love Civilization](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap7.md)
-8. [Conclusion](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap8.md)
-9. [Appendix: Love Languages](https://github.com/DAism2019/Proof-of-Love/blob/main/english/Appendix.md)
-10. [Works Cited](https://github.com/DAism2019/Proof-of-Love/blob/main/english/workscited.md)
+1. [Abstract](#Abstract)
+2. [Love, Hate, Civilization and Barbarism](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap1.md)
+3. [The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotional Experience, and Behavioral Expression](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap2.md)
+4. [The Convergence of Domination and Barbarism: Power as the Root of Hatred, Alienation, and Obstacles to Civilizational Development](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap3.md)
+5. [The End of Labor, The Demise of the Cage](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap4.md)
+6. [Governance of AI: Absurdity is king, but love saves us from it](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap5.md)
+7. [Proof of Love: A Governance Consensus Leading to Next Civilization](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap6.md)
+8. [The Key to Transitioning from Existing Human Society to the Proof-of-Love Civilization](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap7.md)
+9. [Conclusion](https://github.com/DAism2019/Proof-of-Love/blob/main/english/chap8.md)
+10. [Appendix: Love Languages](https://github.com/DAism2019/Proof-of-Love/blob/main/english/Appendix.md)
+11. [Works Cited](https://github.com/DAism2019/Proof-of-Love/blob/main/english/workscited.md)
 <br>
 
 # 爱的证明：治理 AI 和人类文明的共识机制
@@ -45,6 +46,8 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 文中论证了爱与恨作为个人以及人类社会内在的对立智慧如何塑造治理逻辑，并指出长期以来“统治”乃是以恨之智慧为核心，同时不断污染、扭曲、剥夺、摧毁各种形式的爱的智慧的治理机制，导致文明被禁锢于野蛮状态。而 PoL 则旨在将包括 AI 在内的智能公器（Smart Commons）、经济以及人类普世价值进行以“扬爱抑恨”为准则的人类伦理对齐性治理，为 AI 的长期安全运行与公共价值导向，以及人类文明的进步提供持续锚点，使 AI 不仅与区块链一起成为 PoL 三大治理中的自治型的核心驱动力，并且还将使它在此过程中驱动决策的科学化、流程的精准化与效率的极致化。所有这些将会成为人类觉醒的协同力量，帮助人类摆脱普遍野蛮状态，实现自身的圆满，而最终实现“富爱文明”（Proof‑of‑Love Civilization）。
 
 ## 目录
+
+[摘要](#摘要)
 
 [一、爱、恨、文明、野蛮](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/sec1.md)
 
