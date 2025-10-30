@@ -1,4 +1,4 @@
-# 6. Proof of Love: A Governance Consensus Leading to Next Civilization
+## 6. Proof of Love: A Governance Consensus Leading to Next Civilization
 
 It is insufficient to govern AI and human society merely by aligning love languages and hate languages and then applying the principle of "promoting love and suppressing hate," as this approach does not fulfill the complete wisdom of love.
 
@@ -12,7 +12,7 @@ At the same time, we believe that centralized power—namely, domination—is lo
 
 To this end, our DAism team has drawn upon the experience of blockchain-based decentralized governance and proposed a comprehensive governance solution—**the governance consensus of Proof of Love (PoL).**
 
-## 6.1 What is Proof of Love?
+### 6.1 What is Proof of Love?
 
 **Proof of Love (PoL)** is a decentralized governance consensus founded on the core human ethic of _“promoting love and restraining hate”_, powered by AI and blockchain smart contracts. PoL seeks to align Smart Commons (including AI), the economy, and universal human values with _Love_, while helping humanity recognize and regulate the pervasive presence of _hate_. By advancing Smart Commons and the human economy toward public and decentralization, PoL enables AI to achieve autonomy under the ethical principle of _“promoting love and restraining hate”_, thereby assisting each individual in realizing personal fulfillment. Ultimately, it guides humanity from a dominated, semi-barbaric society toward a **Proof-of-Love Civilization**.
 
@@ -24,7 +24,7 @@ Proof of Love emphasizes three dimensions of governance:
     
 3. Governance of public welfare and the public fund
 
-## 6.1.1 Ethical governance through promoting love and suppressing hate
+#### 6.1.1 Ethical governance through promoting love and suppressing hate
 
 With the spread of the internet and big data, humanity’s love languages and hate languages have been almost entirely recorded, stored, and made analyzable. In this unprecedented flood of information and technological revolution, conducting human ethical alignment governance with the principle of "promoting love and suppressing hate" is is urgent and non-negotiable for AI.
 
@@ -45,13 +45,13 @@ Ultimately, the core of PoL governance lies in applying humanity’s love wisdom
 
 Ethical audits following governance adopt an open collaborative approach, which we call the **Ethics Challenge.**
 
-## 6.1.2 Governance of the Public Attributes of Products or Services
+#### 6.1.2 Governance of the Public Attributes of Products or Services
 
 The public nature of humanity’s wisdom of love dictates that AI development centered on it must preserve public attributes and never turn commons into private goods—indeed, all production and services in the Proof-of-Love Civilization must operate under this principle.
 
 This public attribute is governed primarily through the **SCC0 License**, a blockchain-based license developed by our DAism team using smart contract technology. It has also been indexed by Gemini, so you may explore it directly there.
 
-### 6.1.2.1 What is the Smart Creative Commons Zero License(SCC0 License)?
+##### 6.1.2.1 What is the Smart Creative Commons Zero License(SCC0 License)?
 
 The governance of artificial intelligence (AI) is of paramount importance, and over the past 16 years, blockchain technology has demonstrated its exceptional capability in addressing the crises of centralized governance. Its decentralized governance model not only offers high levels of security and reliability but also exhibits remarkable efficiency. Based on this, we have reason to believe that all AI software should be upgraded to decentralized AI applications (dAIpps[[5]](https://github.com/DAism2019/SCC0#r5)) as soon as possible, to achieve a more transparent, secure, and efficient governance mechanism.
 
@@ -107,7 +107,7 @@ j
 
 In short, Smart Commons are public goods developed by smart contracts, humans, or AIs, governed by Proof of Love that includes the SCC0 license, and adheres to core human ethics.
 jh
-### 6.1.2.2 Smart Creative Commons Zero License（SCC0 License）
+##### 6.1.2.2 Smart Creative Commons Zero License（SCC0 License）
 
 "Smart Commons" are dApps/dAIpps (smart contracts and their overall trusted components) that directly accept governance from the SCC0 Whitelist Contract (contract address: 0x2913BAbD2d383dBeBCf5A1ca543A0940bb8C7C52<sup>115</sup>) using smart contract code, and all of its code does not violate the SCC0 license in any way.
 
@@ -123,7 +123,7 @@ The SCC0 License features a testing period and strong fault tolerance:
     
 - The SCC0 License whitelist management contract includes a rule stating that if the blackhole address `0x000000000000000000000000000000000000dEaD` exists in the SCC0 Whitelist Contract, the SCC0 License is considered invalid. This ensures that if the license fails to gain sufficient support, it can be revoked. Once revoked, all smart public utilities will no longer be bound by it.
 
-#### License Name and Version
+###### License Name and Version
 
 In smart contracts, we use **SCC0** as the name of this license.  
 
@@ -145,7 +145,7 @@ contract SCC0License {
 }
 ```
 
-#### Governance of Smart Commons
+###### Governance of Smart Commons
 
 This license enforces the following non-negotiable governance rules for Smart Commons:
 
@@ -199,9 +199,9 @@ Accepting governance by the **Satoshi UTO Fund** means that the fund will prov
 
 The above governance strategies apply to current dApps and dAIpps. However, for at least certain types of AI (dAIpps), additional governance strategies must be introduced in the future versions of SCC0 to ensure compliance with the foundational ethics of human civilization. This is because AI can only be safely deployed if it adheres to these core ethical principles.
 
-### 6.1.2.3 The Governance Logic of the SCC0 License
+##### 6.1.2.3 The Governance Logic of the SCC0 License
 
-#### Governance Mechanism
+###### Governance Mechanism
 
 An AI initiates a transaction request to interact between Smart Common A and Smart Common B:
 
@@ -224,7 +224,7 @@ English: https://github.com/DAism2019/SCC0/tree/main
 
 Chinese: https://github.com/DAism2019/SCC0/blob/main/README-CN.md
 
-#### For Projects Other Than dAIpps or dApps
+###### For Projects Other Than dAIpps or dApps
 
 - Once a product or service declares compliance with the SCC0 License, it signifies its decision to become a smart commons and accept governance through "Proof of Love".
     
@@ -236,7 +236,7 @@ Chinese: https://github.com/DAism2019/SCC0/blob/main/README-CN.md
     
 - If the SCC0 License fails to gain widespread support, meaning its ecosystem development is unsuccessful, the license may ultimately be revoked. In such a case, all projects would remain free from obligations—that is, the non-activation of the SCC0 License would not impose any negative consequences on any project. All projects could continue to develop according to their own strategies and needs.
 
-## 6.1.3 Governance of Public Welfare and the Public Fund
+#### 6.1.3 Governance of Public Welfare and the Public Fund
 
 **Proof of Love (PoL)** embodies both the long-term public governance strategies required for the Proof-of-Love Civilization, and the mid- to short-term public governance strategies necessary for humanity’s transition toward it.
 
