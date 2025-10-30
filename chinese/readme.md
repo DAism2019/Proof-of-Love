@@ -26,6 +26,16 @@ Derek DAism.Zhou（周朝晖）（[0xDD@daism.io](https://daism.io/0xDD)）、Ar
 
 [Works cited](https://github.com/DAism2019/Proof-of-Love/blob/main/chinese/workscited.md)
 
+---
+
+欢迎继续阅读论文内容，并参与有奖活动！
+
+**相关链接**：
+
+- 论文有奖讨论活动：https://daism.io/zh/communities/enki/cc98346a3fc44f008ea28a222ec8105b
+- 论文有奖讨论安全手册：https://daism.io/zh/communities/enki/69489a5f0a8446b8a1a4cfad6f8a8fb7
+- 论文讨论分享链接提交处：https://daism.io/zh/communities/enki/07e7888a76234abe9b3f88ff128e5f5d
+
 💖愛你！
 
 ---
