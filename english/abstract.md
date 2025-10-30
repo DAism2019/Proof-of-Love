@@ -1,3 +1,10 @@
+# Proof of Love: The Consensus of AI and Next Civilization
+
+v3.0] 22 Oc 2025 23:16
+
+Derek DAism.Zhou ([0xDD@daism.io](https://daism.io/0xdd)), Aranna Dang ([0xAranna0572@daism.io](https://daism.io/0xAranna0572))
+
+
 ## Abstract
 
 The rise of large-scale language models has propelled the rapid development of artificial intelligence (AI), while also introducing safety concerns such as hallucinations and misalignment, posing unresolved governance challenges. However, AI governance issues extend beyond these concerns.
