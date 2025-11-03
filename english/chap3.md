@@ -1,4 +1,4 @@
-## 3. The Convergence of Domination and Barbarism: Power as the Root of Hatred, Alienation, and Obstacles to Civilizational Development
+## 3. The Convergence of Domination and Barbarism: Examining Dominion as the Root of Hatred, Alienation, and Obstacles to Civilizational Progress
 
 This section aims to explore in depth the thesis that “domination is the social root of hatred and barbarism.” We will examine the fundamental link between hierarchical power structures and destructive human behavior as well as social stagnation. The analysis will systematically address how various forms of political, economic, social, and cultural power generate hatred, strip and instrumentalize love in human relationships, and ultimately obstruct genuine civilizational progress. Drawing on critical social theory, Marxist analysis, Foucauldian perspectives, and contemporary psychology and sociology, we will reveal how domination, beneath the veneer of modern progress, perpetuates—and even deepens—a condition of “primordial barbarism.”
 
@@ -220,7 +220,7 @@ That SDO can reinforce prejudice even in egalitarian contexts demonstrates that 
 
 This reveals a profound causal mechanism: dominance-oriented individuals not only thrive under systems of inequality but also actively resist and distort egalitarian efforts. When confronted with conditions that challenge hierarchical preferences, they may respond with heightened prejudice and hatred, perceiving inclusionary measures as existential threats to their status. This illustrates how domination perpetuates “primordial barbarism,” converting positive social progress into triggers for conflict and hostility.
 
-Table 1. Typology of Mechanisms by Which Power Induces Hatred
+Table 3.1. Typology of Mechanisms by Which Power Induces Hatred
 
 | Mechanism of Hate Generation            | Type of Power Involved               | Impact on Target Group/Individual            | Manifestations of Hate                         |
 | --------------------------------------- | ------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
@@ -390,7 +390,7 @@ By consolidating top-down unilateral control and undermining bottom-up initiativ
 
 This establishes a clear causal chain: authoritarian rule actively suppresses the very elements that foster social cohesion and civilizational advancement—namely, bottom-up participation, authentic expression, and acceptance of diversity. By replacing trust and cooperation with fear and enforced conformity, authoritarianism creates a society marked by division and fear, representing a direct and systemic form of barbarism that obstructs genuine collective flourishing.
 
-Table 2. Power Structures and Their Obstruction of Civilizational Development
+Table 3.2. Power Structures and Their Obstruction of Civilizational Development
 
 | Power Structure / System           | Obstructive Mechanism                        | Impact on Civilizational Progress                                 |
 | ---------------------------------- | -------------------------------------------- | ----------------------------------------------------------------- |
