@@ -1,4 +1,4 @@
-## 2. The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotional Experience, and Behavioral Expression
+## 2. The Triple Essence of Love: An Integrated Analysis of Wisdom, Emotion, and Behavior
 
 Every living being requires a governance mechanism to protect itself and ensure its healthy development. For humanity, this mechanism is its true core ethic: love.
 
@@ -153,7 +153,7 @@ Multiple studies<sup>8</sup> consistently link love to reduced cortisol (the str
 
 By contrast, the opposite of love—hatred—also generates rigorous emotional and physiological responses, but almost always manifests as intense pain and distress. We believe nearly everyone possesses firsthand awareness of this, and thus no redundant elaboration is needed. It is particularly worth noting: because both love and hate correspond to deeply ingrained physiological mechanisms identified through emotional experience, any systematic destruction of love or dissemination of hatred by rulers inevitably ends in failure—though the timescale of such failure, measured from the emergence of humanity, may span millions of years.
 
-Table 1: Psychological and Physiological Benefits of Love
+Table 2.1: Psychological and Physiological Benefits of Love
 
 | Category of Benefit        | Specific Impact                                                                                                                                                                                       | Supporting Evidence / Mechanism                                                                                                                                     |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -185,7 +185,7 @@ Love fosters personal growth, defined as the continuous development of knowledge
 
 Although acts of love are undoubtedly beneficial at the individual level, sociological perspectives reveal that when conceptualized as "social love"<sup>3</sup> and "institutional love"<sup>6</sup>, love transcends interpersonal relations to become a systemic force. The view that “love emerges from cooperation, and cooperation is our mode of survival” elevates love from personal choice to evolutionary and societal necessity. This suggests that “civilized behavior” is not merely about individual kindness but about constructing social structures that embody and promote love. This has profound implications for policymaking, community development, and organizational design, demonstrating that embedding principles of care, universality, and recognition into social systems produces more resilient, cooperative, and prosperous human societies.
 
-Table 2: Behavioral Expressions of Love and Their Social Benefits
+Table 2.2: Behavioral Expressions of Love and Their Social Benefits
 
 | Behavioral Expression          | Description / Concept                                                                                                                                                                                                               | Social Benefits / Impact                                                                                                          |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
