@@ -61,7 +61,7 @@ In short: Love is each individual’s wisdom of self-management in emotion and b
 
 ### 1.2 Hatred and Barbarism
 
-According to Wikipedia, hatred is an intense negative emotional response toward certain people, things, or ideas, often associated with opposition or aversion. Hatred is frequently linked with strong anger, contempt, and disgust, and is sometimes regarded as the opposite of love.
+According to Wikipedia, hatred is an intense negative emotional response toward certain people, things, or ideas, often associated with opposition or aversion. Hatred is frequently linked with strong anger, contempt, and disgust, and is sometimes regarded as the opposite of love.<sup>73</sup>
 
 Indeed, love and hate are entangled opposites. Following our definition of Love 2.0, we can also offer a definition of **Hate 2.0**:
 
@@ -81,7 +81,7 @@ The word "civilization" is often used in two distinct contexts. Narrowly, it des
 
 Civilization is also frequently contrasted with barbarism. In this context, the focus shifts to behavior (including speech, action, and systems of social governance).
 
-We may further examine the meaning of “civilization” through language. In Chinese, the word “文明” (Wenming) carries a dual semantic weight: As a factual concept, it refers to the material achievements, technological advances, institutional evolution, and intellectual creations accumulated in human history. As a value-laden concept, it describes ethical behavioral standards such as politeness, rationality, and non-violence. In English, these two meanings are expressed through distinct words: civilization emphasizes macro-level historical and technological development, while civility emphasizes norms of individual conduct. Both, however, share the Latin root cīvīlis, meaning “public, political,” which also extends to “polite, moral.”119 This suggests that “civilization” has always been a composite concept blending history, technology, ethics, and politics.
+We may further examine the meaning of “civilization” through language. In Chinese, the word “文明” (Wenming) carries a dual semantic weight: As a factual concept, it refers to the material achievements, technological advances, institutional evolution, and intellectual creations accumulated in human history. As a value-laden concept, it describes ethical behavioral standards such as politeness, rationality, and non-violence. In English, these two meanings are expressed through distinct words: civilization emphasizes macro-level historical and technological development, while civility emphasizes norms of individual conduct. Both, however, share the Latin root cīvīlis, meaning “public, political,” which also extends to “polite, moral.” This suggests that “civilization” has always been a composite concept blending history, technology, ethics, and politics.
 
 Our exploration of civilization includes both cultural identity and loving behavior. From the perspective of behavior, civilization refers to standards such as politeness, rationality, and non-violence, which are all examples of good behavior. Whether driven by emotion or wisdom, the underlying force behind such behavior is love. Hence, we term it "loving behavior." Indeed, the very driving force behind civilized behavior—including governance consensus—is love.
 
