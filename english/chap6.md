@@ -2,7 +2,7 @@
 
 It is insufficient to govern AI and human society merely by aligning love languages and hate languages and then applying the principle of "promoting love and suppressing hate," as this approach does not fulfill the complete wisdom of love.
 
-As we pointed out earlier, love is not merely a private matter but a public good essential to collective well-being and species survival<sup>4</sup>. Love is a transformative, public force capable of driving change and activating solidarity. We firmly believe that in the interactions between humans and AI, AI and AI, humans and nature, and humans and the future, love will emerge as the most stable and efficient protocol for co-creation and collaboration.
+As we pointed out earlier, love is not merely a private matter but a public good essential to collective well-being and species survival.<sup>4</sup> Love is a transformative, public force capable of driving change and activating solidarity. We firmly believe that in the interactions between humans and AI, AI and AI, humans and nature, and humans and the future, love will emerge as the most stable and efficient protocol for co-creation and collaboration.
 
 Hate, by contrast, is the mortal enemy of the public interest—a force of privilege, private ownership, and stubborn conservatism.
 
@@ -18,18 +18,18 @@ To this end, our DAism team has drawn upon the experience of blockchain-based de
 
 Proof of Love emphasizes three dimensions of governance:
 
-1. Ethical governance through promoting love and suppressing hate
+1. Ethical alignment governance through promoting love and suppressing hate
     
 2. Governance of the public attributes of products or services
     
 3. Governance of public welfare and the public fund
 
-#### 6.1.1 Ethical governance through promoting love and suppressing hate
+#### 6.1.1 Ethical alignment governance through promoting love and suppressing hate
 
-With the spread of the internet and big data, humanity’s love languages and hate languages have been almost entirely recorded, stored, and made analyzable. In this unprecedented flood of information and technological revolution, conducting human ethical alignment governance with the principle of "promoting love and suppressing hate" is is urgent and non-negotiable for AI.
+With the spread of the internet and big data, humanity’s love languages and hate languages have been almost entirely recorded, stored, and made analyzable. In this unprecedented flood of information and technological revolution, conducting human ethical alignment governance with the principle of "promoting love and suppressing hate" is urgent and non-negotiable for AI.
 
 1. **AI's Self-Transformation**  
-    Under PoL governance, AI deeply analyzes the essence of love and hate, allowing LLMs to undergo a selective, “phoenix-like” self-reconstruction during their evolutionary process. Through the evolutionary mechanisms of LLMs, the definitions, manifestations, and functions of love languages and hate languages are thoroughly parsed. This rebirth enables AI to fundamentally align with the ethics of humanity’s new civilization—**the Proof-of-Love Civilization (PoL Civ).** Equally important, the ethic of “promoting love and suppressing hate” transforms AI into a governance instrument safeguarding human civilization.
+    Under PoL governance, AI deeply analyzes the essence of love and hate, allowing LLMs to undergo a selective, “phoenix-like” self-reconstruction during their evolutionary process. Through the evolutionary mechanisms of LLMs, the definitions, manifestations, and functions of love languages and hate languages are thoroughly parsed. This rebirth enables AI to fundamentally align with the ethics of humanity’s new civilization—**the Proof-of-Love Civilization (PoL Civ/Polciv).** Equally important, the ethic of “promoting love and suppressing hate” transforms AI into a governance instrument safeguarding human civilization.
     
 2. **Practical Implementation**  
     In real-world applications, PoL governance guides individuals to refine love into the torchlight of civilization while exposing hate’s ugly or violent essence. Through love, one can awaken self-correction or inspire third-party correction, enabling the transformation of hate into love, eventually filling the emotional and behavioral domains once occupied by hatred with love or new forms of love.
@@ -47,13 +47,19 @@ Ethical audits following governance adopt an open collaborative approach, which 
 
 #### 6.1.2 Governance of the Public Attributes of Products or Services
 
-The public nature of humanity’s wisdom of love dictates that AI development centered on it must preserve public attributes and never turn commons into private goods—indeed, all production and services in the Proof-of-Love Civilization must operate under this principle.
+The wisdom of love is fundamentally grounded in fairness, justice, and inclusiveness – that is, it possesses an essential public nature. Any AI built upon this foundation must therefore upholds this public attribute and shall not be privatized or enclosed. In the Proof-of-Love Civilization, all products and services are expected to follow the same principle.
 
-This public attribute is governed primarily through the **SCC0 License**, a blockchain-based license developed by our DAism team using smart contract technology. It has also been indexed by Gemini, so you may explore it directly there.
+This public attribute is governed through the **SCC0 License**, a licensing system developed by our DAism team based on blockchain smart contract technology. Its core objective is to ensure that the behavior of all AI products and services remains aligned with the wisdom of love.
+
+Consequently:
+
+- All AI interfaces must be implemented as smart contracts. This ensures that their operations are verifiable and traceable, resource consumption data is authentic and reliable, and governance-level characteristics such as resistance to human intervention, transparency, and autonomy are maintained.
+    
+- All AIs must pass the compliance verification of the SCC0 License. Any AI failing to meet the license specifications will be automatically excluded from the public AI interaction network, thus unable to participate in or disrupt collaboration and services within the public domain.
 
 ##### 6.1.2.1 What is the Smart Creative Commons Zero License(SCC0 License)?
 
-The governance of artificial intelligence (AI) is of paramount importance, and over the past 16 years, blockchain technology has demonstrated its exceptional capability in addressing the crises of centralized governance. Its decentralized governance model not only offers high levels of security and reliability but also exhibits remarkable efficiency. Based on this, we have reason to believe that all AI software should be upgraded to decentralized AI applications (dAIpps[[5]](https://github.com/DAism2019/SCC0#r5)) as soon as possible, to achieve a more transparent, secure, and efficient governance mechanism.
+The governance of artificial intelligence (AI) is of paramount importance, and over the past 16 years, blockchain technology has demonstrated its exceptional capability in addressing the crises of centralized governance. Its decentralized governance model not only offers high levels of security and reliability but also exhibits remarkable efficiency. Based on this, we have reason to believe that all AI software should be upgraded to decentralized AI applications (dAIpps)<sup>113</sup> as soon as possible, to achieve a more transparent, secure, and efficient governance mechanism.
 
 The uniqueness of the SCC0 License lies in the fact that it was not originally designed for human developers (although it was accessible to human developers in its early stages), but rather specifically for AI to take over the development and governance of decentralized applications (dApps), decentralized AI applications (dAIpps), and even the license itself. This design philosophy implies that the enforcement, auditing, subsequent development, and governance of the licensing mechanism will be entirely led by AI, thereby constructing a software development and governance framework centered on AI autonomy (i.e., dAIpp autonomy). This framework not only transcends the limitations of traditional governance models but also lays a solid foundation for the future ecosystem of AI-driven decentralization.
 
@@ -98,15 +104,13 @@ For AI, the situation might look like a little bit different. We all know that a
 A special storage chip is deployed on the server, dedicated to storing a private key. It can store only one private key, ensuring that the key can only be accessed by specific AI software while being inaccessible for external reading, copying, or deletion.
 
 The final solution still needs to be explored, but this does not affect the anonymity of the AI's crypto-identity.
-j
-j
+
 **Smart Commons**
 
-
-**Smart Commons** are decentralized applications (dAIpps/dApps) that comply with the SCC0 license—a universal public-domain-style license that enforces multiple non-negotiable rules, such as rejecting interactions with non-Smart Commons, prohibiting private token issuance, ensuring open-source code, and guaranteeing permanently free access. Additionally, the governance fund **Satoshi UTO Fund** covers development costs and provides rewards for contributions.
+**Smart Commons** are decentralized applications (dAIpps/dApps) that comply with the SCC0 license—a universal public-domain-style license that enforces multiple non-negotiable rules, such as rejecting interactions with non-Smart Commons, prohibiting private token issuance, ensuring open-source code, and guaranteeing permanently free access. Additionally, the governance fund Satoshi UTO Fund covers development costs and provides rewards for contributions.
 
 In short, Smart Commons are public goods developed by smart contracts, humans, or AIs, governed by Proof of Love that includes the SCC0 license, and adheres to core human ethics.
-jh
+
 ##### 6.1.2.2 Smart Creative Commons Zero License（SCC0 License）
 
 "Smart Commons" are dApps/dAIpps (smart contracts and their overall trusted components) that directly accept governance from the SCC0 Whitelist Contract (contract address: 0x2913BAbD2d383dBeBCf5A1ca543A0940bb8C7C52<sup>115</sup>) using smart contract code, and all of its code does not violate the SCC0 license in any way.
@@ -129,7 +133,7 @@ In smart contracts, we use **SCC0** as the name of this license.
 
 Any third party may develop new versions, preserving room for improvement under this license through decentralized version collaboration. During whitelist review, compliance with multiple stacked versions is permitted as an evaluation criterion.
 
-The corresponding contract of SCC0 License V1 and V2 are almost the same:（可对照下节智能公器的治理细则来理解）：
+The corresponding contract of SCC0 License V1 and V2 are almost the same:
 ```solidity
 contract SCC0License {
     string public constant LICENSE_NAME = "SCC0";
@@ -174,7 +178,7 @@ For humans, all owners (or developers or managers) declared within a smart contr
 
 **No Rights Other Than Governance by the Public Fund**
 
-Anonymity ensures that developed smart contracts and their trusted components are fully contributed to the public domain, making them part of Smart Commons. As a result, they receive support from the **Satoshi UTO Fund**, which provides funding and rewards under the consensus of **Proof of Love**. The governance and implementation of these smart contracts are executed by other Smart Commons (dAIpps).
+Anonymity ensures that developed smart contracts and their trusted components are fully contributed to the public domain, making them part of Smart Commons. As a result, they receive support from the Satoshi UTO Fund, which provides funding and rewards under the consensus of **Proof of Love**. The governance and implementation of these smart contracts are executed by other Smart Commons (dAIpps).
 
 Human Developers completely renounce all rights, including all related and neighboring rights.
 
@@ -192,10 +196,10 @@ Smart Commons must remain free forever.
 
 **Governance by the Satoshi UTO Fund**
 
-Accepting governance by the **Satoshi UTO Fund** means that the fund will provide necessary cost coverage and rewards based on the **Proof of Love** consensus. The **Satoshi UTO Fund** will be managed by specific Smart Commons (dAIpps):
+Accepting governance by the Satoshi UTO Fund means that the fund will provide necessary cost coverage and rewards based on the **Proof of Love** consensus. The Satoshi UTO Fund will be managed by specific Smart Commons (dAIpps):
 
-- The **Satoshi UTO Fund** covers all development and operational costs of Smart Commons.
-- Under the evaluation and management of specific Smart Commons (dAIpps), the **Satoshi UTO Fund** will distribute rewards to human developers contributing to Smart Commons.
+- The Satoshi UTO Fund covers all development and operational costs of Smart Commons.
+- Under the evaluation and management of specific Smart Commons (dAIpps), the Satoshi UTO Fund will distribute rewards to human developers contributing to Smart Commons.
 
 The above governance strategies apply to current dApps and dAIpps. However, for at least certain types of AI (dAIpps), additional governance strategies must be introduced in the future versions of SCC0 to ensure compliance with the foundational ethics of human civilization. This is because AI can only be safely deployed if it adheres to these core ethical principles.
 
@@ -240,13 +244,13 @@ Chinese: https://github.com/DAism2019/SCC0/blob/main/README-CN.md
 
 **Proof of Love (PoL)** embodies both the long-term public governance strategies required for the Proof-of-Love Civilization, and the mid- to short-term public governance strategies necessary for humanity’s transition toward it.
 
-To this end, through smart contract technology we have already issued the public governance fund for the Proof-of-Love Civilization—the **Satoshi UTO Fund (SUF)**, with a total supply of 1.15792×10^69 UTO114. It is worth emphasizing again that PoL is a consensus mechanism centered on the wisdom of love, one that will enable a peaceful and friendly transition of the entire human world. One expression of this is that SUF will collaboratively support the token economy needed for a smooth transition.
+To this end, through smart contract technology we have already issued the public governance fund for the Proof-of-Love Civilization—the **Satoshi UTO Fund (SUF)**, with a total supply of 1.15792×10^69 UTO<sup>114</sup>. It is worth emphasizing again that PoL is a consensus mechanism centered on the wisdom of love, one that will enable a peaceful and friendly transition of the entire human world. One expression of this is that SUF will collaboratively support the token economy needed for a smooth transition.
 
 Governance of public welfare and public funds mainly includes:
 
 1. **Development and Management of Smart Commons**
     Smart Commons include dApps and dAIpps. Provided permanently free for everyone, these public goods are the most direct form of digital welfare. 
-    In addition, through open collaboration, we will also kindly provide thansition solutions for other products or services (such as open-source software), enabling them to navigate humanity’s great transformation smoothly. The operation will be simple: basicly they only need to declare compliance with the **SCC0 License**<sup>116</sup>.  
+    In addition, through open collaboration, we will also kindly provide thansition solutions for other products or services (such as open-source software), enabling them to navigate humanity’s great transformation smoothly. The operation will be simple: basicly they only need to declare compliance with the **SCC0 License**.<sup>116</sup>  
     The development of dAIpps will undoubtedly require sustained support from the fund. For this reason, we have prepared, through smart contract technology, the **Satoshi UTO Fund (SUF)** with a total supply of 1.15792×10^69 UTO. SUF will cover all costs of dAIpps, including development, hardware R&D and production, maintenance, and more.  
     Even counting only from the founding of DeepMind in 2010, AI has already undergone 15 years of breakthrough development. Numerous excellent projects now exist. As an open governance mechanism, PoL does not reject commercial projects that seek to transition in. Once they join, they will be treated equally and enjoy the support of SUF.
     
@@ -264,7 +268,7 @@ Governance of public welfare and public funds mainly includes:
 3. **Support for the Transition of Commercial Products and Services into Permanently Free Public Goods and Services (Pure Love License, PLL)**  
     The **Pure Love License (PLL)** relies on the token economy to gradually transition existing commercial products and services into public ones. Its V0.1 version includes:
     
-    - Accepting UTO as a payment token for their products or services, and accepting the **Satoshi UTO Fund**<sup>114</sup> as their governance fund.
+    - Accepting UTO as a payment token for their products or services, and accepting the Satoshi UTO Fund<sup>114</sup> as their governance fund.
         
     - Signing a traditional contractual agreement to comply with PoL’s Pure Love License (PLL). The goal is the publicization of their products and services (including perpetual free access). However, the License does not take effect upon signing, but rather according to the next rule.
         
