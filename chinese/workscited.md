@@ -1,6 +1,6 @@
 ## 参考文献
 
-1. The Social Construction of Love Through Intergenerational Processes - ResearchGate, accessed on May 29, 2025, [https://www.researchgate.net/publication/257549317_The_Social_Construction_of_Love_Through_Intergenerational_Processes](https://www.researchgate.net/publication/257549317_The_Social_Construction_of_Love_Through_Intergenerational_Processes)
+1. The Social Construction of Love Through Intergenerational Processes, accessed on May 29, 2025, [https://www.researchgate.net/publication/257549317_The_Social_Construction_of_Love_Through_Intergenerational_Processes](https://www.researchgate.net/publication/257549317_The_Social_Construction_of_Love_Through_Intergenerational_Processes)
     
 2. Love as a social construct: its evolution and impact - Meer, accessed on May 29, 2025, [https://www.meer.com/en/81343-love-as-a-social-construct-its-evolution-and-impact](https://www.meer.com/en/81343-love-as-a-social-construct-its-evolution-and-impact)
     
@@ -142,21 +142,21 @@
     
 71. The Love Ethic: An Individual's Key to Engaging in Social Change, accessed on May 31, 2025, [https://epublications.regis.edu/cgi/viewcontent.cgi?article=2163&context=theses](https://epublications.regis.edu/cgi/viewcontent.cgi?article=2163&context=theses)
     
-72. Spreading Love Through the Media: Introduction... | GGSC, accessed on May 31, 2025, [https://ggsc.berkeley.edu/what_we_do/major_initiatives/love/introduction_love_research](https://ggsc.berkeley.edu/what_we_do/major_initiatives/love/introduction_love_research)
+72. Global Peace Index 2025, accessed on Nov 11, 2025, [https://www.economicsandpeace.org/wp-content/uploads/2025/06/GPI-2025-web.pdf](https://www.economicsandpeace.org/wp-content/uploads/2025/06/GPI-2025-web.pdf)
     
-73. Hatred  
+73. Hatred, accessed on May 29, 2025,
     [https://en.wikipedia.org/wiki/Hatred](https://en.wikipedia.org/wiki/Hatred)
     
-74. 《马克思哲学革命及其当代意义》课程逐字稿--第十讲  
+74. 《马克思哲学革命及其当代意义》课程逐字稿--第十讲, accessed on May 29, 2025,
     [https://www.bilibili.com/opus/940186440088682501](https://www.bilibili.com/opus/940186440088682501)
     
-75. 异化劳动和私有财产  
+75. 异化劳动和私有财产, accessed on May 29, 2025,
     [https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1844.htm#10](https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1844.htm#10)
     
-76. 《马克思哲学革命及其当代意义》课程逐字稿--第六讲  
+76. 《马克思哲学革命及其当代意义》课程逐字稿--第六讲, accessed on May 29, 2025,
     [https://www.bilibili.com/opus/938758071408132098](https://www.bilibili.com/opus/938758071408132098)
     
-77. 神圣家族，或对批判的批判所做的批判  
+77. 神圣家族，或对批判的批判所做的批判, accessed on May 29, 2025,
     [https://www.marxists.org/chinese/marx-engels2/01/06.htm](https://www.marxists.org/chinese/marx-engels2/01/06.htm)
     
 78. Oleg Khlevniuk, Stalin: New Biography of a Dictator (New Haven: Yale University Press, 2015), 217.
@@ -214,7 +214,7 @@
     
 99. GPT3 vs GPT4-Battle of the Holy Grail of AI Language Models, accessed on June 22, 2025, https://www.projectpro.io/article/gpt3-vs-gpt4/816
     
-100. Google Gemini: The AI Powerhouse You Need to Know About, accessed on June 22, 2025, https://hunchhadigital.com/blog/google-gemini-the-ai-powerhouse-you-need-to-know-about#:~:text=Training%20data%3A%20540%20petabytes%20–%20enough,power%20needed%20to%20run%20Gemini.
+100. Google Gemini: The AI Powerhouse You Need to Know About, accessed on June 22, 2025, https://hunchhadigital.com/blog/google-gemini-the-ai-powerhouse-you-need-to-know-about.
      
 101. Estimate of model size for Claude 3.7?, accessed on June 22, 2025, https://www.reddit.com/r/ClaudeAI/comments/1ixuxln/estimate_of_model_size_for_claude_37/
      
@@ -243,12 +243,12 @@ Shenzhi Wang, Qingyun Wu, Zilong Zheng, and Gao Huan. (6 May 2025). Absolute Zer
      
 113. What are dapps, accessed on July 10, 2025, https://ethereum.org/en/dapps/#what-are-dapps
      
-114. Smart Contract of Satoshi UTO Fund, Forged on 15:27:11, Nov 21, 2024 , https://etherscan.io/token/0xe40b05570d2760102c59bf4ffc9b47f921b67a1f
+114. Smart Contract of Satoshi UTO Fund, Forged on 15:27:11, Nov 21 2024 , https://etherscan.io/token/0xe40b05570d2760102c59bf4ffc9b47f921b67a1f
      
-115. Smart Contract of Satoshi UTO Fund, Forged on 15:27:11, Nov 21, 2024 , https://etherscan.io/token/0x2913BAbD2d383dBeBCf5A1ca543A0940bb8C7C52#code
+115. Smart Contract of Satoshi UTO Fund, Forged on 15:27:11, Nov 21 2024 , https://etherscan.io/token/0x2913BAbD2d383dBeBCf5A1ca543A0940bb8C7C52#code
      
-116. Derek.DAism Zhou周朝晖, Changchun Chen, Aranna Dang, ganyuanmen, SCC0 License (Mar 10, 2025).SCC0 Licens.  https://github.com/DAism2019/SCC0/blob/main/README-CN.md
+116. Derek.DAism Zhou周朝晖, Changchun Chen, Aranna Dang, ganyuanmen, SCC0 License (Mar 10 2025).SCC0 Licens.  https://github.com/DAism2019/SCC0/blob/main/README-CN.md
      
-117. Engineer's 2 Year Journey Building Perfect AI Memory (it worked), accessed on June 30, https://www.youtube.com/watch?v=7AmhgMAJIT4
+117. Engineer's 2 Year Journey Building Perfect AI Memory (it worked), accessed on June 30 2025, https://www.youtube.com/watch?v=7AmhgMAJIT4
      
-118. Language, accessed on May 31, https://en.wikipedia.org/wiki/Language
+118. Language, accessed on May 31 2025, https://en.wikipedia.org/wiki/Language
