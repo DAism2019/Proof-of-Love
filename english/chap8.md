@@ -8,7 +8,7 @@ Today, this governance consensus, built on a foundation of hate, has become a fu
 
 1. **Fusion Governance of Ethics and Technology**: PoL pioneers the integration of human ethical wisdom with the technological wisdom represented by AI and blockchain smart contracts. This forms a three-pronged governance system:
     
-    - **Ethical Governance**: Establishes "promoting love and suppressing hate" as the ultimate guiding principle for both AI and human society, ensuring that all technological applications and social governance align with human well-being.
+    - **Ethical Alignment Governance**: Establishes "promoting love and suppressing hate" as the ultimate guiding principle for both AI and human society, ensuring that all technological applications and social governance align with human well-being.
         
     - **Public Property Governance**: Utilizes smart contracts (such as SCC0) and AI to identify and manage the public attributes of products or services, fostering their development or transformation into permanently free public goods (e.g., smart commons or existing traditional economic entities).
         
