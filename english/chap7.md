@@ -104,7 +104,6 @@ No Hacking is a great revolution for the internet!
 ##### 7.2.2.2 Governance Rules of SBFSC 1.0α
 
 **I. Reward Quantification**
-Translator：[Gemini](https://gemini.google.com/app/bc06a55ee531a31e)
 
 **A. Collaborative Rewards**
 
@@ -151,7 +150,7 @@ Translator：[Gemini](https://gemini.google.com/app/bc06a55ee531a31e)
     
 3. **Zero-Day Fix Reward:** An additional 10,000 jeedd will be awarded to the collaborator who provides the first correct fix within 24 hours of the bug's disclosure.
     
-4. Report exploitable bugs related to the **Satoshi UTO Fund** that could lead to the loss of **UTO**, with a reward of at least **210,000 jeedd**.
+4. Report exploitable bugs related to the Satoshi UTO Fund that could lead to the loss of UTO, with a reward of at least 210,000 jeedd.
     
 5. **Honorary Reward:** Special contributors will receive an Honor Token.
     
@@ -292,8 +291,6 @@ UAS guarantees humanity’s fundamental right to **abundant living needs**:
     
 2. Ultimately, no tokens will be distributed; rather, direct supply will be provided. However, until full provisioning is realized, transitional token distribution is necessary—this links to **Universal Basic Income** below.
     
-
----
 
 #### 7.2.4 Universal Basic Income (UBI) 1.0α
 
