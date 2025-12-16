@@ -1,5 +1,9 @@
 ## 【摘要】
 
+中文版 v3.1, Dec 17 2025
+
+Derek DAism.Zhou（周朝晖）（[0xDD@daism.io](https://daism.io/0xDD)）、Aranna Dang（邓雯慧）（[0xAranna0572@daism.io](https://daism.io/0xAranna0572)）
+
 大规模语言模型的兴起推动了人工智能（AI）的快速发展，同时也带来了幻觉、失对齐等安全问题，成为悬而未决的治理挑战。然而，AI 的治理问题并不仅限于此。
 
 我们道议程团队提出“爱的证明”（Proof of Love, PoL）作为一种三管齐下的新型治理共识与文明框架：扬爱抑恨的伦理对齐性治理、通过智能合约技术开发的 SCC0 License 完成产品或服务的公共化治理、公共福利与公共基金的治理。
