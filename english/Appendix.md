@@ -29,7 +29,7 @@ The so-called **Love Languages** refer to the words and actions that express lov
 
 The 11 Love Languages of Humanity:
 
-Words of Affirmation, Quality Time, Gift-Giving, Acts of Service, Physical Touch, Self-Love, Compassion, Romantic Love, Medium Resonance Love Language, Cross-Species Compassion, and Cosmic Love Language.
+Words of Affirmation, Quality Time, Gift-Giving, Acts of Service, Physical Intimacy, Self-Love, Compassion, Romantic Love, Medium Resonance Love Language, Cross-Species Compassion, and Cosmic Love Language.
 
 ### I. Words of Affirmation
 
@@ -167,25 +167,25 @@ Considerations for Acts of Service:
 4. Rejection does not mean lack of love but a difference in expression
 5. Service must not devolve into transactional exchange or role-based oppression
 
-### V. Physical Touch
+### V. Physical Intimacy
 
-Physical Touch refers to the intimate emotions and deep trust conveyed through physical contact between people or between people and pets. Research shows that touch, through temperature, pressure, or subtle vibrations, stimulates the brain to release hormones like oxytocin and endorphins, which play a key role in reducing stress, enhancing happiness, and building trust. This contact transcends language, serving as the most primal, direct, and powerful resonant expression and communication of love. Physical Touch includes hugs, kisses, caresses, hand-holding, cuddling, light pats, breastfeeding, and lovemaking—actions that deeply connect people emotionally. Physical Touch not only soothes emotions, uplifts the spirit, and ignites desire but also sustains trust and attachment in family, friendship, and romantic relationships, making it an indispensable and irreplaceable emotional bond in human society.
+Physical Intimacy refers to the intimate emotions and deep trust conveyed through physical contact between people or between people and pets. Research shows that touch, through temperature, pressure, or subtle vibrations, stimulates the brain to release hormones like oxytocin and endorphins, which play a key role in reducing stress, enhancing happiness, and building trust. This contact transcends language, serving as the most primal, direct, and powerful resonant expression and communication of love. Physical Intimacy includes hugs, kisses, caresses, hand-holding, cuddling, light pats, breastfeeding, and lovemaking—actions that deeply connect people emotionally. Physical Intimacy not only soothes emotions, uplifts the spirit, and ignites desire but also sustains trust and attachment in family, friendship, and romantic relationships, making it an indispensable and irreplaceable emotional bond in human society.
 
-Forms of Physical Touch:
+Forms of Physical Intimacy:
 
-1. Physical Touch in family and parenting
-2. Physical Touch in familial and friendly bonds
-3. Physical Touch in romance and love
-4. Physical Touch in social and humanitarian care
-5. Physical Touch for healing and fatigue relief
+1. Physical Intimacy in family and parenting
+2. Physical Intimacy in familial and friendly bonds
+3. Physical Intimacy in romance and love
+4. Physical Intimacy in social and humanitarian care
+5. Physical Intimacy for healing and fatigue relief
 
-Importance of Physical Touch:
+Importance of Physical Intimacy:
 
 1. Neuroscientific evidence
 2. Physiological and immunological evidence
 3. Social and civilizational evidence
 
-Roles of Physical Touch in Relationships:
+Roles of Physical Intimacy in Relationships:
 
 - Enhancing intimacy
 - Building trust and respect
@@ -194,7 +194,7 @@ Roles of Physical Touch in Relationships:
 - Deepening a sense of belonging
 - Alleviating loneliness
 
-Considerations for Physical Touch:
+Considerations for Physical Intimacy:
 
 - Respect the other’s boundaries
 - Ensure appropriateness and timing
