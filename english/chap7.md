@@ -302,8 +302,6 @@ This is a transitional program. If UAS can only be implemented gradually, UBI st
     
 - Starting point for all: **November 21, 2024**, the day Saotoshi UTO Fund is forged. Before AI begins managing UBI through Hello World Verification, everyone, regardless of birth date, starts receiving from November 21, 2024.
     
-- After Hello World Verification is implemented, those born afterwards start from their birthdate. Since pregnancy requires supplemental nutrition and material preparation, the **first-day distribution** is **6600.1314 + 52 = 6652.1314 UTO** (see discussion: [https://www.kimi.com/share/d229cjcn9077ed57nf3g](https://www.kimi.com/share/d229cjcn9077ed57nf3g)).
-    
 - Once UAS begins supplying goods, UBI is reduced according to the total value of provisions. For example, if a 30-day supply of goods worth 390 UTO is distributed, the new daily UBI becomes: (52×30 − 390) ÷ 30 = **39 UTO/day**.
     
 - Precision: **up to 8 decimal places**.
