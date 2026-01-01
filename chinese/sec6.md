@@ -254,5 +254,5 @@ English: https://github.com/DAism2019/SCC0/tree/main
    首个版本请见“7.2.2 智能公器安全赏金计划（Security Bounty for Smart Commons, SBFSC）1.0α”。
    
 5. 为人类社会提供 “普爱引擎”（Universal Love Engine，ULE），即有爱的公共福利治理机制，包含过渡性的良好的通证经济策略。
-   SUF 不仅为 AI 和 dApp 的开发、运营及开发者奖励提供充足资金，保障它们的开发能够在公共基础上通过去中心化协作的方式进行，它也治理富爱文明中所有人的生活所需。我们把这方面的治理称之为 “全民爱的引擎”（Universal Love Engine，ULE）。
-   也就是说，PoL 爱的证明通过 ULE 全民爱的引擎，为所有人提供生活所需的治理策略。SUF 为其提供通证保障，譬如支持全民富裕供给（Universal Abundant Supply, UAS）、全民健保（Universal Healthcare for All Humanity, UHAH）、全民危机救济（Universal Crisis Relief, UCR）和过渡期的全民基本收入（Universal Basic Income, UBI）。
+   SUF 不仅为 AI 和 dApp 的开发、运营及开发者奖励提供充足资金，保障它们的开发能够在公共基础上通过去中心化协作的方式进行，它也治理富爱文明中所有人的生活所需。我们把这方面的治理称之为 “普爱引擎”（Universal Love Engine，ULE）。
+   也就是说，PoL 爱的证明通过 ULE 普爱引擎，为所有人提供生活所需的治理策略。SUF 为其提供通证保障，譬如支持全民富裕供给（Universal Abundant Supply, UAS）、全民健保（Universal Healthcare for All Humanity, UHAH）、全民危机救济（Universal Crisis Relief, UCR）和过渡期的全民基本收入（Universal Basic Income, UBI）。
