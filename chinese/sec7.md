@@ -34,17 +34,17 @@ Hello World 验证（Hello World Verification）看起来很简单，特别像�
 
 就这么简单！
 
-在下面的“全民爱的引擎”的实施中，第三方应用只需要通过设备让用户刷脸、按指纹、扫虹膜即可直接从验证 AI 获得用户的 DID，然后就能够将账单等数据记录到智能合约里。
+在下面的“普爱引擎”的实施中，第三方应用只需要通过设备让用户刷脸、按指纹、扫虹膜即可直接从验证 AI 获得用户的 DID，然后就能够将账单等数据记录到智能合约里。
 
-### 7.2 爱的引擎
+### 7.2 普爱引擎
 
-PoL 爱的证明通过全民爱的引擎（Universal Love Engine，ULE），为所有人提供生活治理策略。早期由 SUF 为其提供通证保障。
+PoL 爱的证明通过普爱引擎（Universal Love Engine，ULE），为所有人提供生活治理策略。早期由 SUF 为其提供通证保障。
 
 ULE 包括智能公器安全赏金计划（Security Bounty for Smart Commons, SBFSC）、全民富裕供给（Universal Abundant Supply, UAS)、全民健保（Universal Healthcare for All Humanity, UHAH）、全民危机救济（Universal Crisis Relief, UCR）和过渡期的全民基本收入（Universal Basic Income, UBI）。
 
-我们深知，全民爱的引擎（Universal Love Engine，ULE）的实施，不是个简单的工程，最具有挑战性的是，它毫无疑问需要全世界的各种人才各种项目，特别是发展中的各种公共 AI 的支持。
+我们深知，普爱引擎（Universal Love Engine，ULE）的实施，不是个简单的工程，最具有挑战性的是，它毫无疑问需要全世界的各种人才各种项目，特别是发展中的各种公共 AI 的支持。
 
-全民爱的引擎需要有一个长期逐步发展的过程，因为它是一个未来将会不断拓展出子方案的集合的总称。在此仅以伦理挑战（Ethics Challenge）、智能公器安全赏金计划（Security Bounty for Smart Commons, SBFSC）、全民富裕供给（Universal Abundant Supply, UAS）、全民基本收入（Universal basic income, UBI）为主，稍作探讨性的描述。
+普爱引擎需要有一个长期逐步发展的过程，因为它是一个未来将会不断拓展出子方案的集合的总称。在此仅以伦理挑战（Ethics Challenge）、智能公器安全赏金计划（Security Bounty for Smart Commons, SBFSC）、全民富裕供给（Universal Abundant Supply, UAS）、全民基本收入（Universal basic income, UBI）为主，稍作探讨性的描述。
 
 #### 7.2.1 伦理挑战（Ethics Challenge）
 
