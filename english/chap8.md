@@ -22,3 +22,11 @@ Today, this governance consensus, built on a foundation of hate, has become a fu
     
 
 The thriving development of AI—from large language models to embodied AI agents, perception-and-decision systems, knowledge graphs, and evolutionary optimization engines—urgently requires sound governance based on its alignment with core human ethics. Among these, large language models, by compressing human wisdom into trillions of parameters, have become a universal "operating system" and interaction protocol that connects data, tasks, physical systems, and even human society. "Proof of Love" provides the AI world with a reliable ethical framework and technical solution for participating in the governance of a new human civilization, ensuring its development leads toward a Proof-of-Love Civilization rather than unmanaged chaos or disaster. This is the theoretical support and practical path that our DAism team has contributed to a higher form of human civilization by developing and uncovering this governance consensus.
+
+To enable the transformation of human civilization, the governance pathway of Proof of Love consists of three key steps:
+
+First, use "Proof of Love" to govern AI, which is equivalent to governing the collective wisdom of humanity;
+
+Use the SCC0 License to assist AI that has completed PoL governance in forming a large-scale decentralized autonomous organization (DAO), which we refer to as NaturalDAO;
+
+Use NaturalDAO, this super decentralized autonomous organization, to manage human society and realize the Proof-of-Love Civilization.
