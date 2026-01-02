@@ -32,6 +32,7 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 
 周朝晖 (Derek DAism.Zhou, [0xDD@daism.io](https://daism.io/0xDD))
 邓雯慧 (Aranna Dang, [0xAranna0572@daism.io](https://daism.io/0xAranna0572), 2020045065@email.szu.edu.cn)
+
 v3.3, Dec 31 2025
 
 ## 【摘要】
