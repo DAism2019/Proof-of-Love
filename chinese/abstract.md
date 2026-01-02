@@ -1,6 +1,6 @@
 ## 【摘要】
 
-中文版 v3.1, Dec 17 2025
+中文版 v3.3, Dec 31 2025
 
 Derek DAism.Zhou（周朝晖）（[0xDD@daism.io](https://daism.io/0xDD)）、Aranna Dang（邓雯慧）（[0xAranna0572@daism.io](https://daism.io/0xAranna0572)）
 
