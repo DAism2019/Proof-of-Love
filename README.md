@@ -5,6 +5,10 @@ Wenhui Dang (Aranna Dang, [0xAranna0572@daism.io](https://daism.io/0xAranna0572)
 
 Version: 3.3, Dec 31 2025
 
+## Important
+
+The project based on this paper is [NaturalDAO](https://github.com/naturaldao).
+
 ## Abstract
 
 The rise of large-scale language models has propelled the rapid development of artificial intelligence (AI), while also introducing safety concerns such as hallucinations and misalignment, posing unresolved governance challenges. However, AI governance issues extend beyond these concerns.
