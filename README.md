@@ -41,7 +41,7 @@ v3.3, Dec 31 2025
 
 ## 重要提示
 
-与这篇论文相关的开发请访问：[NaturalDAO](https://github.com/naturaldao)。
+与这篇论文相关的项目（开发）请访问：[NaturalDAO](https://github.com/naturaldao)。
 
 ## 【摘要】
 
