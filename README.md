@@ -39,6 +39,10 @@ The paper argues how love and hate, as inherent opposing wisdoms in individuals 
 
 v3.3, Dec 31 2025
 
+## 重要提示
+
+与这篇论文相关的开发请访问：[NaturalDAO](https://github.com/naturaldao)。
+
 ## 【摘要】
 
 大规模语言模型的兴起推动了人工智能（AI）的快速发展，同时也带来了幻觉、失对齐等安全问题，成为悬而未决的治理挑战。然而，AI 的治理问题并不仅限于此。
