@@ -7,7 +7,7 @@ Version: 3.3, Dec 31 2025
 
 ## Important
 
-The project based on this paper is [NaturalDAO](https://github.com/naturaldao).
+The project based on this paper is [NaturalDAO](https://github.com/naturaldao). **[New Version of Proof-of-Love would be published here]((https://github.com/naturaldao/naturaldao/pol)).**
 
 ## Abstract
 
@@ -41,7 +41,7 @@ v3.3, Dec 31 2025
 
 ## 重要提示
 
-与这篇论文相关的项目（开发）请访问：[NaturalDAO](https://github.com/naturaldao)。
+与这篇论文相关的项目（开发）请访问：[NaturalDAO](https://github.com/naturaldao)。“爱的证明”理论的更新版本[请访问这里](https://github.com/naturaldao/naturaldao/pol)。
 
 ## 【摘要】
 
