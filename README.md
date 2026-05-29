@@ -7,7 +7,7 @@ Version: 3.3, Dec 31 2025
 
 ## Important
 
-The project based on this paper is [NaturalDAO](https://github.com/naturaldao). **[New Version of Proof-of-Love would be published here]((https://github.com/naturaldao/naturaldao/pol)).**
+The project based on this paper is [NaturalDAO](https://github.com/naturaldao). **[New Version of Proof-of-Love would be published here](https://github.com/naturaldao/naturaldao/pol).**
 
 ## Abstract
 
